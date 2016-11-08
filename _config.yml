@@ -1,0 +1,4 @@
+name: Silo.ist
+description: the works of Silo
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
