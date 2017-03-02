@@ -1,6 +1,6 @@
 ---
 title: About the Project
-permalink: /about
+permalink: /about/
 edit: true
 ---
 
