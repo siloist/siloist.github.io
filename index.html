@@ -1,7 +1,40 @@
 ---
 layout: default
-title: Siloist
 ---
-<div class="blurb">
-	<h1>Hi there, this is Silo.ist website!</h1>
-</div><!-- /.blurb -->
+
+<div class="home">
+  <section class="banner">
+    <div class="wrapper">
+      <h1>{{ site.title }}</h1>
+      <p>{{ site.description }}</p>
+      <!--<a href="{{ "/agreement/" | prepend: site.baseurl }}" style="font-size: 20px;">Read now</a>-->
+    </div>
+  </section>
+
+  <div class="wrapper">
+      <div>
+        <h2>Libri</h2>
+	<!--<a href="{{ "/agreement/" | prepend: site.baseurl }}">Read now</a>
+      </div>-->
+
+     <div>
+        <div>
+          <h2>Discorsi</h2>
+          <p>Compare differences between the texts:
+          <!--<br />
+          <br />
+          &bull; <a href="{{ "/diff/23-oct-vs-4-dec" | prepend: site.baseurl }}">23 Oct vs 4 Dec</a>
+          <br />
+          </p>
+          <a href="{{ "/diff/" | prepend: site.baseurl }}">See the diffs here</a>-->
+       </div>
+      </div>
+      <div>
+        <div>
+          <h2>About</h2>
+          <p>This site woudl like to publish all Silo's words in an open and portable format</p>
+          <a href="{{ "/about/" | prepend: site.baseurl }}">Read more</a>
+        </div>
+      </div>
+  </div>
+</div>

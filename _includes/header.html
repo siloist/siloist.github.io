@@ -1,0 +1,42 @@
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_last = url_parts |last  %}
+
+<header class="site-header">
+  <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
+  <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+</header>
+
+<nav id="menu">
+  <ul>
+    <li>
+      <a href="{{ site.baseurl }}/">Home</a>
+    </li>
+
+    <li><a><strong>Libri</strong></a></li>
+    <li {% if url_parts contains 'umanizzare-la-terra' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/libri/umanizzare-la-terra/">Umanizzare la terra</a>
+    </li>
+     <li {% if url_parts contains 'il-messaggio-di-silo' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/libri/il-messaggio-di-silo/">Il Messaggio di Silo</a>
+    </li>
+     <li {% if url_parts contains 'il-giorno-del-leone-alato' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/libri/il-giorno-del-leone-alato/">Il Giorno del Leone Alato</a>
+    </li>
+
+    <li><a><strong>Discorsi</strong></a></li>
+    <li {% if url_parts contains '1969-la-guarigione-della-sofferenza' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/discorsi/1969-la-guarigione-della-sofferenza/">1969 - La Guarigione della Sofferenza</a>
+    </li>
+     <li {% if url_parts contains '1999-trentesimo-anniversario' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/discorsi/1999-trentesimo-anniversario/">1999 - Trentesimo anniversario del Movimento Umanista</a>
+    </li>
+     <li {% if url_parts contains '2004-prima-celebrazione-messaggio-di-silo' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/it/discorsi/2004-prima-celebrazione-messaggio-di-silo/">2004 - Prima celebrazione annuale del Messaggio di Silo</a>
+    </li>
+
+    <li><a><strong>Meta</strong></a></li>
+    <li {% if url_last ==  'about' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/about/">About</a>
+    </li>
+  </ul>
+</nav>

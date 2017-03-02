@@ -1,0 +1,79 @@
+<div class="page-tools">
+ {% if page.pagination %}
+  <ul class="pagination">
+    {% if page.pagination.start %}
+    <li class="start tooltip-item">
+      Start
+      <span class="tooltip">
+        <a href="{{ page.pagination.start.link }}">{{ page.pagination.start.name }}</a>
+      </span>
+    </li>
+    {% endif %}
+    {% if page.pagination.previous %}
+    <li class="previous tooltip-item">
+      Previous
+      <span class="tooltip">
+        <a href="{{ page.pagination.previous.link }}">{{ page.pagination.previous.name }}</a>
+      </span>
+    </li>
+    {% endif %}
+    {% if page.pagination.next %}
+    <li class="next tooltip-item">
+      Next
+      <span class="tooltip">
+        <a href="{{ page.pagination.next.link }}">{{ page.pagination.next.name }}</a>
+      </span>
+    </li>
+    {% endif %}
+  </ul>
+  {% endif %}
+  
+  <ul>
+    {% if site.github_repo and page.edit %}
+    <li class="edit tooltip-item">
+      Improve this page
+      
+      <span class="tooltip">
+        <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/edit/{{page.path}}" class="github" rel="external">Edit on Github</a>
+        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+      </span>
+    </li>
+    {% endif %}
+    {% if active_section.translate_link %}
+    <li class="translate tooltip-item">
+      Translate this page
+      <span class="tooltip">
+        <a href="{{ "/contribute/translate-guide" | prepend: site.baseurl }}" target="_blank">Translation guide</a>
+      </span>
+    </li>
+    {% endif %}
+
+    <li class="share tooltip-item">
+      Share
+      
+      <span class="tooltip">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook" rel="external">Share on Facebook</a>
+        <a href="https://twitter.com/home?status={{page.title }}: {{ site.url }}{{ page.url }}" class="twitter" rel="external">Share on Twitter</a>
+      </span>
+    </li>
+    {% if page.section == 'resources' %}
+    <li class="add tooltip-item">
+      Add a resource
+      
+      <span class="tooltip">
+        <a href="{{ "/contribute/add-resource/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+      </span>
+    </li>
+    {% endif %}
+    {% if page.section == 'solutions-landing' %}
+    <li class="add tooltip-item">
+      Add a solution
+      
+      <span class="tooltip">
+        <a href="{{ "/contribute/" | prepend: site.baseurl }}" target="_blank">Help and instructions</a>
+      </span>
+    </li>
+    {% endif %}
+  </ul>
+  
+</div>

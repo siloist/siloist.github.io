@@ -1,4 +1,42 @@
-name: Silo.ist
+title: Silo.ist
+short_title: Silo all words
+email: your-email@domain.com
 description: the works of Silo
-markdown: kramdown
+baseurl: ""
+url: "http://silo.ist" 
+# twitter_username: jekyllrb
+github_username:  siloist
+github_repo:  silo.ist
+
 permalink: /blog/:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown
+# theme: minima
+gems:
+  - jekyll-feed
+
+# Reading Files
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README
+encoding: "utf-8"
+markdown_ext: "md"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+      section: texts
+
+
+related_projects:
+  -
+      name: Silo.net
+      link: http://silo.net
+  
