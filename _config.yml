@@ -14,11 +14,16 @@ permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 # theme: minima
 gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+whitelist:
+  - jekyll-sitemap
   - jekyll-feed
 
 # Reading Files
 include:
-  - ["_pages"]
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -33,7 +38,6 @@ defaults:
     values:
       layout: page
       section: texts
-
 
 related_projects:
   -
