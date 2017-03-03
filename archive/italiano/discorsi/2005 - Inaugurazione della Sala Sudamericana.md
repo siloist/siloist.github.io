@@ -1,4 +1,9 @@
-# Inaugurazione della Sala Sudamericana
+---
+title: Inaugurazione della Sala Sudamericana
+permalink: /it/discorsi/2005-inaugurazione-sala-sudamericana/
+edit: true
+lang: it
+---
 
 ### Silo
 ### 7 Maggio 2005, La Reja, Argentina

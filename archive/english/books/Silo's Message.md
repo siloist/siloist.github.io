@@ -1,13 +1,21 @@
-# SILO’S MESSAGE
+---
+title: Silo's Message
+permalink: /en/books/silo-message/
+edit: true
+date: 2005-10-17T15:31:39+00:00
+lang: en
+---
 
-NOTE FROM THE PRINTERS
+* TOC
+{:toc}
+
+*NOTE FROM THE PRINTERS*
 
 The Message given by Silo in July of 2002 consists of three parts: The Book, The Experience, and the Path.
 The Book has been known for some time under the title The Inner Look.
 The Experience is approached through eight ceremonies.
 The Path is a collection of reflections and suggestions.
 This edition contains the Message in its entirety. It circulates in both printed and electronic form.
-
 
 © Silo. Second edition, 2007.
 

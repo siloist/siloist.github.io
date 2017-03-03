@@ -1,4 +1,9 @@
-# Giornate di Esperienze
+---
+title: Giornate di Esperienze
+permalink: /it/discorsi/2007-giornate-di-esperienze/
+edit: true
+lang: it
+---
 
 ### Silo
 ### 3,4,5 Maggio 2007, Punta de Vacas, Mendoza, Argentina

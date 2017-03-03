@@ -3,6 +3,7 @@ title: La Guarigione della Sofferenza
 permalink: /it/discorsi/1969-la-guarigione-della-sofferenza/
 edit: true
 date: 2005-10-17T15:31:39+00:00
+lang: it
 ---
 
 ### Silo

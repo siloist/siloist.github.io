@@ -3,6 +3,7 @@ title: Il Messaggio di Silo
 permalink: /it/libri/il-messaggio-di-silo/
 edit: false
 date: 2005-10-17T15:31:39+00:00
+lang: it
 ---
 
 * TOC
@@ -20,7 +21,6 @@ In questa ricopilazione c’è tutto il Messaggio. Circola stampato e attraverso
 
 © Silo. Seconda ricopilazione, 2007
 http://silo.net/
-https://github.com/SiloBooks/Silo-Message-Book
 
 # IL LIBRO
 

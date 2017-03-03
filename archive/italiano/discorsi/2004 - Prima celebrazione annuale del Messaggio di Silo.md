@@ -2,6 +2,7 @@
 title: Parole pronunciate da Silo in occasione della prima celebrazione annuale del Messaggio di Silo
 permalink: /it/discorsi/2004-prima-celebrazione-messaggio-di-silo/
 edit: true
+lang: it
 ---
 
 ### Silo

@@ -1,6 +1,15 @@
-# EL MENSAJE DE SILO
+---
+title: El Mensaje de Silo
+permalink: /es/books/el-mensaje-de-silo/
+edit: true
+date: 2005-10-17T15:31:39+00:00
+lang: es
+---
 
-Nota de los impresores.
+* TOC
+{:toc}
+
+*Nota de los impresores.*
 El Mensaje dado por Silo en julio de 2002, consta de tres partes: el Libro; la Experiencia y el Camino.
 El Libro es conocido desde hace tiempo como “La Mirada Interna”.
 La Experiencia está planteada a través de ocho ceremonias.

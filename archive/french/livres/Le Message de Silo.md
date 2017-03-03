@@ -1,6 +1,15 @@
-#LE MESSAGE DE SILO
+---
+title: Le Message de Silo
+permalink: /fr/livres/le-message-de-silo/
+edit: true
+date: 2005-10-17T15:31:39+00:00
+lang: fr
+---
 
-**Note des Éditeurs**
+* TOC
+{:toc}
+
+*Note des Éditeurs*
 
 Le Message donné par Silo en juillet 2002, est composé de trois parties : le Livre, l’Expérience, le Chemin.
 Le Livre est connu depuis un certain temps comme Le Regard Intérieur.
@@ -10,9 +19,9 @@ Ce recueil constitue le Message dans son intégralité.
 
 © Silo. Deuxième recueil, 2007
 
-#LE LIVRE
+# LE LIVRE
 
-##I. LA MÉDITATION
+## I. LA MÉDITATION
 
 Ici est raconté comment on convertit le non-sens de la vie en sens et en plénitude.
 2. Ici, on trouve joie, amour du corps, de la nature, de l’humanité et de l’esprit.
@@ -20,7 +29,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 4. Ici, on n’oppose pas le terrestre à l’éternel.
 5. Ici, on parle de la révélation intérieure à laquelle parvient celui qui, soigneuse- ment, médite en une humble recherche.
 
-##II. DISPOSITION POUR COMPRENDRE
+## II. DISPOSITION POUR COMPRENDRE
 
 1. Je sais ce que tu sens car je peux faire l’expérience de ton état, mais tu ne sais pas comment l’on expérimente ce que je dis. Par conséquent, si je te parle de façon désintéressée de ce qui rend l’être humain heureux et libre, cela vaut la peine que tu essaies de comprendre.
 2. Ne pense pas que c’est en discutant avec moi que tu vas comprendre. Si tu crois que contredire cela éclaircira ton jugement, tu peux le faire, mais ce n’est pas la voie à suivre dans ce cas.

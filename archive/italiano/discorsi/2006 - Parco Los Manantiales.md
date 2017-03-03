@@ -1,4 +1,9 @@
-# Parole di Silo all'Inaugurazione Parco Los Manantiales
+---
+title: Parole di Silo all'Inaugurazione Parco Los Manantiales
+permalink: /it/discorsi/2006-inaugurazione-parco-los-manantiales/
+edit: true
+lang: it
+---
 
 ### Silo
 ### 6 Maggio 2006, Los Manantiales, Santiago, Chile
