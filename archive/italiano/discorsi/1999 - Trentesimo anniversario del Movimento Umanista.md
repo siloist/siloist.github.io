@@ -3,6 +3,8 @@ title: Trentesimo anniversario del Movimento Umanista
 permalink: /it/discorsi/1999-trentesimo-anniversario/
 edit: true
 lang: it
+id: 2187
+group:
 ---
 
 ### Silo

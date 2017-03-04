@@ -2,9 +2,11 @@
 
   <div>
     <div class="primary">
-      <a href="https://silo.net/" rel="external"><img src="{{ "/img/silo-icon.jpg" | prepend: site.baseurl }}" width="65" height="79" alt="Silo"></a>
+      <a href="https://silo.net/" rel="external">
+          <img src="{{ "/img/silo-icon.jpg" | prepend: site.baseurl }}" width="65" height="79" alt="Silo">
+      </a>
     </div>
-    
+
     <div class="secondary">
       <ul>
         <li><a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" rel="external">Contribute</a></li>
@@ -13,8 +15,12 @@
         <li class="button"><a href="http://opendefinition.org/" rel="external"><img src="{{ site.baseurl }}/img/open-content.svg" width="80" height="15" alt="Open Content"/></a></li>
       </ul>
     </div>
-    
+
     <div class="tertiary">
+        <!-- <div>
+        <p>This site woudl like to publish all Silo's words in an open and portable format</p>
+        <a href="{{ "/about/" | prepend: site.baseurl }}">About</a>
+        </div> -->
       {% if site.related_projects %}
       <div>
         <h6>Related Projects</h6>
@@ -31,6 +37,6 @@
         {% endif %}
       </ul>
     </div>
-    
+
   </div>
 </footer>

@@ -3,6 +3,8 @@ title: Inaugurazione della Sala Sudamericana
 permalink: /it/discorsi/2005-inaugurazione-sala-sudamericana/
 edit: true
 lang: it
+id: 2190
+group:
 ---
 
 ### Silo

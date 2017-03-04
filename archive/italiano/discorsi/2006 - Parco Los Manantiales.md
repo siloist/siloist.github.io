@@ -3,6 +3,8 @@ title: Parole di Silo all'Inaugurazione Parco Los Manantiales
 permalink: /it/discorsi/2006-inaugurazione-parco-los-manantiales/
 edit: true
 lang: it
+id: 2191
+group:
 ---
 
 ### Silo

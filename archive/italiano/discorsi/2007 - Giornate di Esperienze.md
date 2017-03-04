@@ -3,6 +3,8 @@ title: Giornate di Esperienze
 permalink: /it/discorsi/2007-giornate-di-esperienze/
 edit: true
 lang: it
+id: 2194
+group: 
 ---
 
 ### Silo
