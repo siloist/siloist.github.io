@@ -2,8 +2,10 @@
 title: Le Message de Silo
 permalink: /fr/livres/le-message-de-silo/
 edit: true
-date: 2005-10-17T15:31:39+00:00
+date: 2007-10-17
 lang: fr
+id: 2933
+group: 1783
 ---
 
 * TOC

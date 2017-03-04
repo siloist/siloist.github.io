@@ -2,8 +2,10 @@
 title: Silo's Message
 permalink: /en/books/silo-message/
 edit: true
-date: 2005-10-17T15:31:39+00:00
+date: 2007-10-17
 lang: en
+id: 2533
+group: 1783
 ---
 
 * TOC

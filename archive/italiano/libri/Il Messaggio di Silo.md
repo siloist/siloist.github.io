@@ -2,8 +2,10 @@
 title: Il Messaggio di Silo
 permalink: /it/libri/il-messaggio-di-silo/
 edit: false
-date: 2005-10-17T15:31:39+00:00
+date: 2007-10-17
 lang: it
+id: 2227
+group: 1783
 ---
 
 * TOC
