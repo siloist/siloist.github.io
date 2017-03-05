@@ -11,7 +11,7 @@ fork the project and start submitting pull request if you want to contribute
 
 ## Technology
 The site is build with Jekyll - http://jekyllrb.com/
-and hosted here at GitHub
+and hosted here at GitHub.
 
 ## Contributor notes
 to startup the local Jekyll site:
