@@ -28,6 +28,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README
+  - Rakefile
 encoding: "utf-8"
 markdown_ext: "md"
 
