@@ -3,16 +3,16 @@ short_title: the words of Silo
 email: stefano.cecere@gmail.com
 description: the complete words and works archive by Mario Rodriguez Cobos
 baseurl: ""
-url: "http://silo.ist" 
-# twitter_username: jekyllrb
+url: "http://silo.ist"
 github_username:  siloist
 github_repo:  silo.ist
 
-permalink: /blog/:year/:month/:day/:title
-
-# Build settings
 markdown: kramdown
-# theme: minima
+permalink: /blog/:year/:month/:day/:title
+sass:
+  # sass_dir: _sass
+  style: compressed
+
 gems:
   - jekyll-sitemap
   - jekyll-feed
@@ -43,4 +43,3 @@ related_projects:
   -
       name: Silo.net
       link: http://silo.net
-  
