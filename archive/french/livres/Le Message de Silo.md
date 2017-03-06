@@ -40,7 +40,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 5. N’allègue pas non plus que ma façon de présenter les choses te déplaît car tu ne dis pas cela de la peau du fruit dont la chair te plaît.
 6. Je m’exprime de la façon qui me semble convenir et non comme le souhaiteraient ceux dont les aspirations sont éloignées de la vérité intérieure.
 
-##III. LE NON-SENS
+## III. LE NON-SENS
 
 *Au long des jours, je découvris ce grand paradoxe : ceux qui portèrent l’échec en leur cœur purent illuminer l’ultime triomphe ; ceux qui s’étaient sentis triomphateurs restèrent sur le chemin tels des végétaux à la vie diffuse et éteinte. Au long des jours, je parvins à la lumière depuis les obscurités les plus épaisses, guidé non par l’enseignement mais par la méditation.*
 
@@ -60,7 +60,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 12. Mourir n’est pas mieux que vivre ou que ne pas être né, mais ce n’est pas pire non plus.
 13. J’ai découvert non par enseignement, mais par expérience et méditation, qu’il n’y a pas de sens à la vie si tout se termine avec la mort.
 
-##IV. LA DÉPENDANCE
+## IV. LA DÉPENDANCE
 
 *Le deuxième jour.*
 
@@ -70,7 +70,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 4. Si quelqu’un me dit que celui qui ne mange pas meurt, je lui répondrai qu’il en est ainsi, en effet, et que, aiguillonné par ses besoins, il est obligé de manger ; mais je n’ajouterai pas que sa lutte pour manger justifie son existence. Je ne dirai pas non plus que cela soit mauvais. Je dirai simplement qu’il s’agit là d’un fait individuellement ou collectivement nécessaire pour la subsistance, mais dépourvu de sens à l’instant où l’on perd la dernière bataille.
 5. Je dirai, en outre, que je suis solidaire de la lutte du pauvre, de l’exploité et du persécuté. Je dirai que je me sens “réalisé” à travers une telle identifica- tion, mais je comprendrai que je ne justifie rien.
 
-##V. LE SOUPÇON DU SENS
+## V. LE SOUPÇON DU SENS
 
 *Le troisième jour.*
 
@@ -86,7 +86,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *... Et tout ceci m’a donné à penser. Je me rends bien compte que sans ces expériences, je ne serais pas sorti du non-sens.*
 
-##VI. SOMMEIL ET ÉVEIL
+## VI. SOMMEIL ET ÉVEIL
 
 *Le quatrième jour.*
 
@@ -95,7 +95,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *Il y a une façon réelle d’être éveillé : c’est celle qui m’a amené à méditer profondé- ment sur ce qui a été dit jusqu’ici et qui, en outre, m’a ouvert la porte pour découvrir le sens de tout ce qui existe.*
 
-##VII. PRÉSENCE DE LA FORCE
+## VII. PRÉSENCE DE LA FORCE
 
 *Le cinquième jour.*
 
@@ -120,7 +120,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *Lorsque j’eus compris cela et lancé la Force vers ce point supérieur, tout mon corps ressentit l’impact d’une énergie énorme qui frappa puissamment ma conscience et je m’élevai de compréhension en compréhension. Mais j’observai aussi que je pouvais descendre vers les profon- deurs du mental si je perdais le contrôle de l’énergie. Je me souvins alors des légendes au sujet des “cieux” et des “enfers” en voyant la ligne de partage entre ces deux états mentaux.*
 
-##IX. MANIFESTATIONS DE L’ÉNERGIE
+## IX. MANIFESTATIONS DE L’ÉNERGIE
 
 *Le septième jour.*
 
@@ -129,12 +129,11 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 3. L’énergie dédoublée (c’est-à-dire imaginée “à l’extérieur” du corps, ou “séparée” de sa base matérielle) soit se dissolvait en tant qu’image, soit était représentée correctement, en fonction de l’unité intérieure de celui qui opérait ainsi.
 4. Je pus vérifier que “l’extériorisation” de cette énergie, qui représentait le propre corps comme “en dehors” du corps, se produisait déjà depuis les niveaux les plus bas du mental. Dans ces cas, il arrivait que l’atteinte à l’unité la plus primaire de la vie provoquât cette réponse pour sauvegarder ce qui était menacé. C’est pourquoi, dans la transe de certains médiums dont le niveau de conscience était bas et l’unité intérieureen péril, ces réponses étaient involon- taires ; elles n’étaient pas reconnues comme produites par eux-mêmes mais attribuées à d’autres entités.
 
-
 *Les “fantômes” ou “esprits” de certains peuples ou de certains devins n’étaient autres que les propres “doubles” (les propres représentations) de ces personnes qui se sentaient saisies par eux. Étant donné l’obscurcissement de leur état mental (en transe) par la perte du contrôle de la Force, ils se sentaient manipulés par des êtres étranges qui, parfois, produi- saient des phénomènes remarquables. Sans doute, de nombreux “possédés” subirent de tels effets. Ce qui était décisif était donc le contrôle de la Force.*
 
 *Ceci modifiait complètement aussi bien ma conception de la vie courante que celle de la vie après la mort. Par ces pensées et ces expériences, je perdis de plus en plus foi en la mort et, depuis lors, je ne crois plus en elle, de même que je ne crois pas au non- sens de la vie.*
 
-##X. EVIDENCE DU SENS
+## X. EVIDENCE DU SENS
 
 *Le huitième jour.*
 
@@ -142,7 +141,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 2. L’importance réelle de détruire les contradictions internes me convainquit.
 3. L’importance réelle de manier la Force pour atteindre unité et continuité m’emplit d’un sens joyeux.
 
-##XI. LE CENTRE LUMINEUX
+## XI. LE CENTRE LUMINEUX
 
 *Le neuvième jour.*
 
@@ -153,7 +152,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *Certains allèrent encore plus loin et reçurent de ce centre des dons indicibles, qui “descendirent” sur les inspirés tantôt sous forme de langues de feu, tantôt sous forme de sphères lumineuses, tantôt sous forme de buissons ardents qui apparais- saient devant le croyant craintif.*
 
-##XII. LES DÉCOUVERTES
+## XII. LES DÉCOUVERTES
 
 *Le dixième jour.*
 
@@ -169,7 +168,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *Finalement, je remarquai que mes “découvertes” n’en étaient pas, mais qu’elles étaient dues à la révélation intérieure à laquelle accède quiconque, sans contradictions, cherche la lumière en son propre cœur.*
 
-##XIII. LES PRINCIPES
+## XIII. LES PRINCIPES
 
 *Différente est l’attitude face à la vie et aux choses, lorsque la révélation intérieure frappe comme la foudre.*
 
@@ -205,7 +204,7 @@ Ici est raconté comment on convertit le non-sens de la vie en sens et en plé
 
 *Lorsque tu trouves une grande force, une grande joie et une grande bonté dans ton cœur, ou lorsque tu te sens libre et sans contradictions, remercie immédiatement en ton intérieur. Lorsque le contraire t'arrive, demande avec foi, et la reconnaissance que tu as accumulée te reviendra transformée et amplifiée en bénéfices.*
 
-##XIV. LE GUIDE DU CHEMIN INTÉRIEUR
+## XIV. LE GUIDE DU CHEMIN INTÉRIEUR
 
 *Si tu as compris ce qui a été expliqué jusqu'ici, tu peux faire
 l'expérience de la manifestation de la Force par un simple travail. Ceci
@@ -267,9 +266,7 @@ impénétrables !*
 *« Prends la Force de la cité cachée. Retourne au monde de la vie dense
 avec ton front et tes mains lumineux. »*
 
-***
-
-##XV. L’EXPÉRIENCE DE PAIX ET LE PASSAGE DE LA FORCE
+## XV. L’EXPÉRIENCE DE PAIX ET LE PASSAGE DE LA FORCE
 
 Relâche pleinement ton corps et tranquillise le mental. Imagine alors
 une sphère transparente et lumineuse qui, descendant vers toi, finit par
@@ -339,9 +336,7 @@ problèmes dans la dynamique d'image et en somme une fragmentation dans
 le comportement émotif… Ce qui du reste, sera présent dans ta vie
 quotidienne.
 
-***
-
-##XVI. PROJECTION DE LA FORCE
+## XVI. PROJECTION DE LA FORCE
 
 Si tu as expérimenté le passage de la Force, tu pourras comprendre
 comment, en s'appuyant sur des phénomènes similaires mais sans aucune
@@ -384,9 +379,7 @@ croit parce qu'elles ont une “réalité” dans notre représentation
 intérieure). Comme on se sent mal lorsque notre regard extérieur n'est
 autre qu'une projection ignorée de notre regard intérieur.
 
-***
-
-##XVII PERTE ET RÉPRESSION DE LA FORCE
+## XVII PERTE ET RÉPRESSION DE LA FORCE
 
 Les plus grandes décharges d'énergie sont produites par des actes
 incontrôlés qui sont : l'imagination débridée, la curiosité sans
@@ -439,9 +432,7 @@ Prêtes-y attention et considère-le comme une grande merveille que l'on
 doit traiter avec délicatesse sans le transformer en source de
 contradiction ou agent de désintégration de l'énergie vitale.
 
-***
-
-##XVIII ACTION ET RÉACTION DE LA FORCE
+## XVIII ACTION ET RÉACTION DE LA FORCE
 
 *Précédemment je t'ai expliqué : “ Lorsque tu trouves une grande force,
 une grande joie et une grande bonté dans ton cœur, ou lorsque tu te sens
@@ -463,9 +454,7 @@ positifs. Je n’ai pas besoin de te répéter que ce mécanisme servit
 bien encore des entités intérieures qui furent projetées, croyant ainsi
 qu'elles écouteraient les prières et les demandes.
 
-***
-
-##XIX. LES ÉTATS INTÉRIEURS
+## XIX. LES ÉTATS INTÉRIEURS
 
 *Tu dois acquérir à présent une perception suffisante des états
 intérieurs dans lesquels tu peux te trouver au cours de ta vie et, en
@@ -601,11 +590,9 @@ ils trompent en transposant dans le domaine de l'imaginaire ce qui est
 réalisable. Que ce qui a été dit jusqu'ici te serve ! Si ce qui a été
 expliqué ne t'était pas utile, que pourrais-tu objecter puisque rien n'a
 de fondement ni de raison pour le scepticisme, qui est comme l'image
-d'un miroir, le son d'un écho, l'ombre d'une ombre. *
+d'un miroir, le son d'un écho, l'ombre d'une ombre.*
 
-***
-
-##XX. LA RÉALITÉ INTÉRIEURE
+## XX. LA RÉALITÉ INTÉRIEURE
 
 Sois attentif à mes considérations ! En elles, tu n'auras d'intuitions
 que de phénomènes allégoriques et de paysages du monde extérieur.
@@ -652,13 +639,11 @@ travers des régions jusqu'alors ignorées. Il vole vers l'extérieur de
 son monde et, sans le savoir, est lancé jusqu'au centre intérieur et
 lumineux.*
 
-#L'EXPÉRIENCE
+# L'EXPÉRIENCE
 
-***
+## OFFICE
 
-##OFFICE
-
-*L’Office est réalisé à la demande d’un ensemble de personnes. *
+*L’Office est réalisé à la demande d’un ensemble de personnes.*
 
 **Officiant** : Mon mental est inquiet.
 
@@ -720,9 +705,7 @@ laisse passer un peu de temps.*
 
 **Ensemble :** Pour toi aussi, Paix, Force et Joie !
 
-***
-
-##IMPOSITION
+## IMPOSITION
 
 *L’Imposition est réalisée à la demande d'une ou de plusieurs personnes.
 L’Officiant et l’Auxiliaire sont debout.*
@@ -744,7 +727,7 @@ L’Officiant et l’Auxiliaire sont debout.*
 **Ensemble** : Je relâche mon corps, mon cœur et mon mental.
 
 *L'Officiant et l'Auxiliaire s'assoient et laissent passer un moment.
-L'Officiant se met debout. *
+L'Officiant se met debout.*
 
 **Officiant** : Si tu veux recevoir la Force, tu dois comprendre qu'au
 moment de l'Imposition, tu commenceras à expérimenter de nouvelles
@@ -759,7 +742,7 @@ Sens la Force et sa luminosité interne.
 
 Laisse-la se manifester librement.
 
-*On laisse passer un moment ; l'Auxiliaire se met debout.*
+*On laisse passer un moment; l'Auxiliaire se met debout.*
 
 **Auxiliaire** : Celui qui désire recevoir la Force peut se mettre
 debout
@@ -778,7 +761,7 @@ concentrons le mental sur ce dont un être très cher a réellement besoin.
 
 *Il invite alors tout le monde à se lever pour effectuer silencieusement
 ses demandes. Parfois, l'un des participants formule une Demande pour
-une personne présente ou absente. *
+une personne présente ou absente.*
 
 *On laisse passer un moment.*
 
@@ -786,9 +769,7 @@ une personne présente ou absente. *
 
 **Ensemble** : Pour toi aussi, Paix, Force et Joie !
 
-***
-
-##BIEN-ÊTRE
+## BIEN-ÊTRE
 
 *La cérémonie est réalisée à la demande d’un ensemble de personnes. Si
 possible, les participants sont assis. L’Officiant et l’Auxiliaire sont
@@ -832,9 +813,7 @@ nous-mêmes et inspirateur pour nos vies. Nous saluons tous ceux qui
 baignent dans ce courant de bien-être, courant fortifié par les
 meilleurs souhaits des personnes ici présentes…
 
-***
-
-##PROTECTION
+## PROTECTION
 
 *Cérémonie de participation individuelle ou collective. Tous sont
 debout. L’Officiant et l’Auxiliaire sont face aux enfants et ces
@@ -877,14 +856,12 @@ Paix, force et joie à tous !
 *L’Officiant pose aimablement une main sur la tête de chaque enfant et
 lui donne un baiser sur le front.*
 
-***
-
-##MARIAGE
+## MARIAGE
 
 *Tous sont debout. Un ou plusieurs couples. L’Officiant et l’Auxiliaire
 sont face aux conjoints.*
 
-**Auxiliaire** : Depuis des temps reculés, les mariages ont été des
+**Auxiliaire**: Depuis des temps reculés, les mariages ont été des
 cérémonies de changement d'état des personnes.
 
 Lorsque quelqu'un termine ou commence une nouvelle étape de sa vie, il a
@@ -922,31 +899,29 @@ ressentent.
 Nous ne les marions pas, ce sont eux qui se marient devant notre
 communauté.
 
-**Officiant :** Pour que cette cérémonie soit vôtre et qu'elle soit
+**Officiant**: Pour que cette cérémonie soit vôtre et qu'elle soit
 véritable, nous demandons (*s'adressant à l'un des conjoints*) : Que
 représente ce mariage pour toi ?
 
 *La personne interrogée explique à haute voix...*
 
-**Officiant :** (*S'adressant à l'autre conjoint*) Que représente ce
+**Officiant**: (*S'adressant à l'autre conjoint*) Que représente ce
 mariage pour toi ?
 
 *La personne interrogée explique à haute voix...*
 
-**Officiant** : Par conséquent, ce mariage sera en accord avec les
+**Officiant**: Par conséquent, ce mariage sera en accord avec les
 souhaits exprimés et les intentions les plus profondes. *(Il salue
 affectueusement les conjoints)*.
 
-***
-
-##ASSISTANCE
+## ASSISTANCE
 
 *Il s’agit d’une cérémonie où l’on exprime beaucoup d’affection, une
 cérémonie qui exige que celui qui la réalise donne le meilleur de
-lui-même. *
+lui-même.*
 
 *La cérémonie peut être répétée à la demande de l’intéressé ou de ceux
-qui s’occupent de lui. *
+qui s’occupent de lui.*
 
 *L’Officiant est seul avec la personne mourante.*
 
@@ -954,7 +929,7 @@ qui s’occupent de lui. *
 l’Officiant s’approche de lui en parlant avec une voix douce, claire et
 posée.*
 
-**Officiant :** Les souvenirs de ta vie sont le jugement de tes actions.
+**Officiant:** Les souvenirs de ta vie sont le jugement de tes actions.
 Tu peux, en peu de temps, te souvenir en grande partie de ce qu'il y a
 de meilleur en toi. Souviens-toi donc, mais sans sursaut, et purifie ta
 mémoire. Rappelle-toi doucement et tranquillise ton mental... 
@@ -1002,11 +977,9 @@ humaine…
 
 Viens, prépare-toi à entrer dans la plus belle Lumière... 
 
-***
+## MORT
 
-##MORT
-
-**Officiant :** La vie a cessé dans ce corps. Nous devons faire un
+**Officiant:** La vie a cessé dans ce corps. Nous devons faire un
 effort pour séparer dans notre mental l'image de ce corps et l'image de
 la personne dont nous nous souvenons maintenant…
 
@@ -1032,9 +1005,7 @@ nous parviendra…
 
 Paix dans le cœur, lumière dans la compréhension !
 
-***
-
-##RECONNAISSANCE
+## RECONNAISSANCE
 
 *La Reconnaissance est une cérémonie d’inclusion dans la Communauté.
 Inclusion par des expériences communes, par des idéaux, des attitudes et
@@ -1045,7 +1016,7 @@ Office. Ceux qui participent doivent disposer du texte écrit.*
 
 *L’Officiant et l’Auxiliaire sont debout.*
 
-**Auxiliaire** : La réalisation de cette cérémonie a été demandée par
+**Auxiliaire**: La réalisation de cette cérémonie a été demandée par
 les personnes qui souhaitent s’inclure activement dans notre Communauté.
 Ici, un engagement personnel et commun sera exprimé pour travailler à
 l’amélioration de la vie de chacun et à l’amélioration de la vie de
@@ -1053,7 +1024,7 @@ notre prochain.
 
 *L’Auxiliaire invite ceux qui désirent témoigner à se mettre debout.*
 
-**Officiant** : La douleur et la souffrance que nous, êtres humains,
+**Officiant**: La douleur et la souffrance que nous, êtres humains,
 expérimentons, reculeront si avance la bonne connaissance et non la
 connaissance au service de l’égoïsme et de l’oppression.
 
@@ -1064,7 +1035,7 @@ La bonne connaissance mène à la réconciliation.
 La bonne connaissance mène aussi à déchiffrer le sacré dans la
 profondeur de la conscience.
 
-**Auxiliaire** *(et l’ensemble de ceux qui témoignent lisent)* : 
+**Auxiliaire** *(et l’ensemble de ceux qui témoignent lisent)*: 
 
 Nous considérons l’être humain comme la valeur maximale au-dessus de
 l’argent, de l’Etat, de la religion, des modèles et des systèmes
@@ -1109,12 +1080,12 @@ Nous aspirons à persuader et à réconcilier.
 Nous nous proposons de respecter de plus en plus cette règle qui nous
 rappelle de "traiter les autres comme nous voulons être traités".
 
-**Officiant** : Nous commencerons une vie nouvelle.
+**Officiant**: Nous commencerons une vie nouvelle.
 
 Nous chercherons dans notre intérieur les signes du sacré et nous
 amènerons à d’autres notre message.
 
-**Auxiliaire** *(et l’ensemble de ceux qui témoignent lisent)* :
+**Auxiliaire** *(et l’ensemble de ceux qui témoignent lisent)*:
 
 Aujourd’hui, nous commencerons la rénovation de notre vie. Nous
 commencerons en cherchant la paix mentale et la Force qui nous donne
@@ -1122,13 +1093,13 @@ joie et conviction. Ensuite, nous irons vers les personnes les plus
 proches pour partager avec elles tout ce qui nous est arrivé de grand et
 bon.
 
-**Officiant** : Pour tous, Paix, Force et Joie.
+**Officiant**: Pour tous, Paix, Force et Joie.
 
 **Auxiliaire** (*et tous les personnes présentes)* :
 
 Pour toi aussi, Paix, Force et Joie.
 
-#LE CHEMIN
+# LE CHEMIN
 
 Si tu crois que ta vie se termine avec la mort, ce que tu penses, sens
 et fais n’a pas de sens. Tout s’achève dans l’incohérence, dans la

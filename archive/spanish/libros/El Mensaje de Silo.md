@@ -42,41 +42,41 @@ En esta recopilación está el Mensaje completo. Circula impreso y a través de 
 
 En muchos días descubrí esta gran paradoja: aquellos que llevaron el fracaso en su corazón pudieron alumbrar el último triunfo, aquellos que se sintieron triunfadores quedaron en el camino como vegetales de vida difusa y apagada. En muchos días llegué yo a la luz desde las oscuridades más oscuras guiado no por enseñanza sino por meditación.
 Así me dije el primer día:
-1.	No hay sentido en la vida si todo termina con la muerte.
-2.	Toda justificación de las acciones, sean éstas despreciables o excelentes, es siempre un nuevo sueño que deja el vacío por delante.
-3.	Dios es algo no seguro.
-4.	La fe es algo tan variable como la razón y el sueño.
-5.	“Lo que uno debe hacer” puede discutirse totalmente y nada viene definitivamente en apoyo de las explicaciones.
-6.	“La responsabilidad” del que se compromete con algo no es mayor que la responsabilidad de aquel que no se compromete.
-7.	Me muevo según mis intereses y esto no me convierte en cobarde pero tampoco en héroe.
-8.	“Mis intereses” no justifican ni desacreditan nada.
-9.	“Mis razones” no son mejores ni peores que las razones de otros.
-10.	La crueldad me horroriza pero no por ello y en sí misma es peor o mejor que la bondad.
-11.	Lo dicho hoy por mí o por otros, no vale mañana.
+1. No hay sentido en la vida si todo termina con la muerte.
+2. Toda justificación de las acciones, sean éstas despreciables o excelentes, es siempre un nuevo sueño que deja el vacío por delante.
+3. Dios es algo no seguro.
+4. La fe es algo tan variable como la razón y el sueño.
+5. “Lo que uno debe hacer” puede discutirse totalmente y nada viene definitivamente en apoyo de las explicaciones.
+6. “La responsabilidad” del que se compromete con algo no es mayor que la responsabilidad de aquel que no se compromete.
+7. Me muevo según mis intereses y esto no me convierte en cobarde pero tampoco en héroe.
+8. “Mis intereses” no justifican ni desacreditan nada.
+9. “Mis razones” no son mejores ni peores que las razones de otros.
+10. La crueldad me horroriza pero no por ello y en sí misma es peor o mejor que la bondad.
+11. Lo dicho hoy por mí o por otros, no vale mañana.
  Morir no es mejor que vivir o no haber nacido, pero tampoco es peor.
  Descubrí no por enseñanza, sino por experiencia y meditación, que no hay sentido en la vida si todo termina con la muerte.
 
 ## IV. LA DEPENDENCIA
 
 El día segundo.
-1.	Todo lo que hago, siento y pienso, no depende de mí.
-2.	Soy variable y dependo de la acción del medio. Cuando quiero cambiar al medio o a mi “yo”, es el medio el que me cambia. Entonces busco la ciudad o la naturaleza, la redención social o una nueva lucha que justifique mi existencia... En cada uno de esos casos el medio me lleva a decidir por una u otra actitud. De tal manera mis intereses y el medio aquí me dejan.
-3.	Digo entonces que no importa qué o quién decide. Digo en esas ocasiones que tengo que vivir, ya que estoy en situación de vivir. Digo todo esto pero no hay nada que lo justifique. Puedo decidirme, vacilar o permanecer. De todas maneras una cosa es mejor que otra, provisoriamente, pero no hay “mejor” ni “peor” en definitiva.
-4.	Si alguien me dice que aquél que no come muere le responderé que así es, en efecto, y que está obligado a comer aguijoneado por sus necesidades pero no agregaré a esto que su lucha por comer justifica su existencia. Tampoco diré que ello sea malo. Diré, con sencillez, que se trata de un hecho individual o colectivamente necesario para la subsistencia pero sin sentido en el momento en que se pierde la última batalla.
-5.	Diré, además, que me solidarizo con la lucha del pobre y del explotado y del perseguido. Diré que me siento “realizado” con tal identificación pero comprenderé que nada justifico.
+1. Todo lo que hago, siento y pienso, no depende de mí.
+2. Soy variable y dependo de la acción del medio. Cuando quiero cambiar al medio o a mi “yo”, es el medio el que me cambia. Entonces busco la ciudad o la naturaleza, la redención social o una nueva lucha que justifique mi existencia... En cada uno de esos casos el medio me lleva a decidir por una u otra actitud. De tal manera mis intereses y el medio aquí me dejan.
+3. Digo entonces que no importa qué o quién decide. Digo en esas ocasiones que tengo que vivir, ya que estoy en situación de vivir. Digo todo esto pero no hay nada que lo justifique. Puedo decidirme, vacilar o permanecer. De todas maneras una cosa es mejor que otra, provisoriamente, pero no hay “mejor” ni “peor” en definitiva.
+4. Si alguien me dice que aquél que no come muere le responderé que así es, en efecto, y que está obligado a comer aguijoneado por sus necesidades pero no agregaré a esto que su lucha por comer justifica su existencia. Tampoco diré que ello sea malo. Diré, con sencillez, que se trata de un hecho individual o colectivamente necesario para la subsistencia pero sin sentido en el momento en que se pierde la última batalla.
+5. Diré, además, que me solidarizo con la lucha del pobre y del explotado y del perseguido. Diré que me siento “realizado” con tal identificación pero comprenderé que nada justifico.
 
 ## V. SOSPECHA DEL SENTIDO
 
 El día tercero.
-1.	A veces me he adelantado a hechos que luego sucedieron.
-2.	A veces he captado un pensamiento lejano.
-3.	A veces he descrito lugares que nunca visité.
-4.	A veces he contado con exactitud lo sucedido en mi ausencia.
-5.	A veces una alegría inmensa me ha sobrecogido.
-6.	A veces una comprensión total me ha invadido.
-7.	A veces una comunión perfecta con todo me ha extasiado.
-8.	A veces he roto mis ensueños y he visto la realidad de un modo nuevo.
-9.	A veces he reconocido como visto nuevamente algo que veía por primera vez.
+1. A veces me he adelantado a hechos que luego sucedieron.
+2. A veces he captado un pensamiento lejano.
+3. A veces he descrito lugares que nunca visité.
+4. A veces he contado con exactitud lo sucedido en mi ausencia.
+5. A veces una alegría inmensa me ha sobrecogido.
+6. A veces una comprensión total me ha invadido.
+7. A veces una comunión perfecta con todo me ha extasiado.
+8. A veces he roto mis ensueños y he visto la realidad de un modo nuevo.
+9. A veces he reconocido como visto nuevamente algo que veía por primera vez.
 ...Y todo ello me ha dado que pensar. Buena cuenta me doy que, sin esas experiencias, no podría haber salido del sin-sentido.
 
 ## VI. SUEÑO Y DESPERTAR
@@ -251,7 +251,7 @@ Así, hoy vuela hacia las estrellas el héroe de esta edad. Vuela a través de r
 
 Se realiza a pedido de un conjunto de personas.
 
-Oficiante: Mi mente está inquieta.
+**Oficiante**: Mi mente está inquieta.
 Conjunto: Mi mente está inquieta.
 Oficiante: Mi corazón sobresaltado.
 Conjunto: Mi corazón sobresaltado.
@@ -280,7 +280,7 @@ Conjunto: También para ti, Paz, Fuerza y Alegría.
 
 Se realiza a pedido de una o varias personas. Oficiante y Auxiliar están de pie.
 
-Oficiante: Mi mente está inquieta.
+**Oficiante**: Mi mente está inquieta.
 Conjunto: Mi mente está inquieta.
 Oficiante: Mi corazón sobresaltado.
 Conjunto: Mi corazón sobresaltado.
@@ -306,9 +306,9 @@ Conjunto: También para ti, Paz, Fuerza y Alegría.
 
 Se realiza a pedido de un conjunto de personas. Los partícipes, en lo posible, están sentados. Oficiante y auxiliar de pie.
 
-Auxiliar. Aquí estamos reunidos para recordar a nuestros seres queridos. Algunos de ellos tienen dificultades en su vida afectiva, en su vida de relación, o en su salud. Hacia ellos dirigimos nuestros pensamientos y nuestros mejores deseos.
-Oficiante. Confiamos en que llegue hasta ellos nuestro pedido de bienestar. Pensamos en nuestros seres queridos; sentimos la presencia de nuestros seres queridos y experimentamos el contacto con nuestros seres queridos.
-Auxiliar. Tomaremos un corto tiempo para meditar en las dificultades que padecen esas personas...
+**Auxiliar**: Aquí estamos reunidos para recordar a nuestros seres queridos. Algunos de ellos tienen dificultades en su vida afectiva, en su vida de relación, o en su salud. Hacia ellos dirigimos nuestros pensamientos y nuestros mejores deseos.
+**Oficiante**: Confiamos en que llegue hasta ellos nuestro pedido de bienestar. Pensamos en nuestros seres queridos; sentimos la presencia de nuestros seres queridos y experimentamos el contacto con nuestros seres queridos.
+**Auxiliar**: Tomaremos un corto tiempo para meditar en las dificultades que padecen esas personas...
 Se da unos pocos minutos para que los concurrentes puedan meditar.
 Oficiante. Quisiéramos ahora hacer sentir a aquellas personas, nuestros mejores deseos. Una oleada de alivio y bienestar debe llegar hasta ellas...
 Auxiliar. Tomaremos un corto tiempo para ubicar mentalmente la situación de bienestar que deseamos a nuestros seres queridos.
@@ -321,15 +321,15 @@ Oficiante. Esto ha sido bueno para otros, reconfortante para nosotros e inspirad
 
 Ceremonia de participación individual o colectiva. Todos de pie. Oficiante y Auxiliar frente a los niños y éstos, rodeados por los concurrentes.
 
-Auxiliar: Esta ceremonia tiene por objeto dar participación a los niños en nuestra comunidad.
+**Auxiliar**: Esta ceremonia tiene por objeto dar participación a los niños en nuestra comunidad.
 Desde antiguo, los niños han sido objeto de ceremonias tales como bautismos, imposiciones de nombre, etc. Mediante ellas se ha reconocido el cambio de situación, el cambio de etapa en el ser humano.
 Existieron y existen ciertas formalidades civiles mediante las cuales se hace constar el nacimiento, el lugar en que el hecho se produjo, etc. Pero la trascendencia espiritual que acompaña a una ceremonia de este tipo, nada tiene que ver con la frialdad de las constancias escritas sino que está ligada al júbilo de los padres y de la comunidad, al ser presentados los niños públicamente.
 Esta es una ceremonia mediante la cual el estado de los niños cambia al convertirse en partícipes de una comunidad que se compromete a hacerse cargo de ellos en caso que desafortunadas circunstancias los dejaran desvalidos.
 En esta ceremonia se pide protección para los niños y la comunidad los acoge como a nuevos hijos.
 Pasado un tiempo, el Oficiante se dirige amablemente a los presentes.
 Oficiante: Pedimos protección para estos niños.
-Auxiliar: Los acogemos con júbilo y nos comprometemos a darles protección.
-Oficiante: Elevemos ahora nuestros mejores deseos... ¡Paz y alegría para todos!
+**Auxiliar**: Los acogemos con júbilo y nos comprometemos a darles protección.
+**Oficiante**: Elevemos ahora nuestros mejores deseos... ¡Paz y alegría para todos!
 Impone amablemente una mano sobre la cabeza de cada niño y lo besa en la frente.
 
 ## MATRIMONIO
@@ -384,13 +384,13 @@ Sea cual fuere nuestro parecer, no lloremos los cuerpos. Meditemos más bien en 
 
 ## RECONOCIMIENTO
 
-El Reconocimiento es una ceremonia de inclusión en la Comunidad. Inclusión por experiencias comunes, por ideales, actitudes y procedimientos compartidos.
-Se realiza a pedido de un conjunto de personas y luego de un Oficio. Quienes van a participar deben contar con el texto escrito.
+El Reconocimiento es una ceremonia de inclusión en la Comunidad. Inclusión por experiencias comunes, por ideales, actitudes y procedimientos compartidos.  
+Se realiza a pedido de un conjunto de personas y luego de un Oficio. Quienes van a participar deben contar con el texto escrito.  
 Oficiante y Auxiliar de pie.
 
-Auxiliar: La realización de esta ceremonia ha sido pedida por aquellas personas que desean incluirse activamente en nuestra Comunidad. Aquí se expresará un compromiso personal y conjunto para trabajar por el mejoramiento de la vida de cada uno y por el mejoramiento de la vida de nuestro prójimo.
+**Auxiliar**: La realización de esta ceremonia ha sido pedida por aquellas personas que desean incluirse activamente en nuestra Comunidad. Aquí se expresará un compromiso personal y conjunto para trabajar por el mejoramiento de la vida de cada uno y por el mejoramiento de la vida de nuestro prójimo.
 El auxiliar invita a quienes desean dar testimonio a ponerse de pie.
-Oficiante: El dolor y el sufrimiento que experimentamos los seres humanos retrocederán si avanza el buen conocimiento, no el conocimiento al servicio del egoísmo y la opresión.
+**Oficiante**: El dolor y el sufrimiento que experimentamos los seres humanos retrocederán si avanza el buen conocimiento, no el conocimiento al servicio del egoísmo y la opresión.
 El buen conocimiento lleva a la justicia.
 El buen conocimiento lleva a la reconciliación.
 El buen conocimiento lleva, también, a descifrar lo sagrado en la profundidad de la conciencia.
@@ -411,27 +411,43 @@ Nos proponemos dar creciente cumplimiento a esa regla que nos recuerda “tratar
 Oficiante: Comenzaremos una vida nueva.
 Buscaremos en nuestro interior los signos de lo sagrado y llevaremos a otros nuestro mensaje.
 Auxiliar (y conjunto de quienes testimonian, leyendo):
-Hoy comenzaremos la renovación de nuestra vida. Empezaremos buscando la paz mental y la Fuerza que nos dé alegría y convicción. Después, iremos hasta las personas más cercanas a compartir con ellas todo lo grande y bueno que nos ha ocurrido.
-Oficiante: Para todos Paz, Fuerza y Alegría
+Hoy comenzaremos la renovación de nuestra vida. Empezaremos buscando la paz mental y la Fuerza que nos dé alegría y convicción. Después, iremos hasta las personas más cercanas a compartir con ellas todo lo grande y bueno que nos ha ocurrido.  
+**Oficiante**: Para todos Paz, Fuerza y Alegría
 Auxiliar (y todos los presentes):
 También para ti Paz, Fuerza y Alegría.
 
 # EL CAMINO
 
 Si crees que tu vida termina con la muerte lo que piensas, sientes y haces, no tiene sentido. Todo concluye en la incoherencia, en la desintegración.
+
 Si crees que tu vida no termina con la muerte, debe coincidir lo que piensas con lo que sientes y con lo que haces. Todo debe avanzar hacia la coherencia, hacia la unidad.
-Si eres indiferente al dolor y el sufrimiento de los demás, toda ayuda que pidas no encontrará justificación
+
+Si eres indiferente al dolor y el sufrimiento de los demás, toda ayuda que pidas no encontrará justificación.
+
 Si no eres indiferente al dolor y sufrimiento de los demás, debes hacer que coincida lo que sientes con lo que pienses y hagas para ayudar a otros.
+
 Aprende a tratar a los demás del modo en que quieres ser tratado.
+
 Aprende a superar el dolor y el sufrimiento en ti, en tu prójimo y en la sociedad humana.
+
 Aprende a resistir la violencia que hay en ti y fuera de ti.
+
 Aprende a reconocer los signos de lo sagrado en ti y fuera de ti.
+
 No dejes pasar tu vida sin preguntarte: “¿quién soy?”
+
 No dejes pasar tu vida sin preguntarte: “¿hacia dónde voy?”
+
 No dejes pasar un día sin responderte quién eres.
+
 No dejes pasar un día sin responderte hacia dónde vas.
+
 No dejes pasar una gran alegría sin agradecer en tu interior.
+
 No dejes pasar una gran tristeza sin reclamar en tu interior aquella alegría que quedó guardada.
+
 No imagines que estas solo en tu pueblo, en tu ciudad, en la Tierra y en los infinitos mundos.
+
 No imagines que estas encadenado a este tiempo y a este espacio.
+
 No imagines que en tu muerte se eterniza la soledad.
