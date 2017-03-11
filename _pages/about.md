@@ -2,27 +2,21 @@
 title: About the Project
 permalink: /about/
 edit: true
+published: true
 ---
 
-collect all Silo's speeches
+the aim is to collect and preserve all Silo's written words, publishing them in modern future proof formats.
 
-* TOC
-{:toc}
+Starign from the original documents from [silo.net](http://silo.net), we'll convert them into markdown text format.
 
-## Who is Doing This?
+## Team
 
 * Stefano Cecere
 * Federico Palumbo
-* ...you?
-
-## Why This Site
-
-We want a permanent solution where to keep and make available all Silo's words
-* Latest text in clean markdown and HTML
-* an open collaborative platform like GitHub
 
 ## Get Involved
 
-We want and welcome help! To find out more and get involved see this **[issue on github][help]**.
+We are using the open collaborative platform GitHub to develop the documents and the site itself, which is acutally all here: [https://github.com/siloist/silo.ist/issues/](https://github.com/siloist/silo.ist/issues/)
 
-[help]: https://github.com/siloist/silo.ist/issues/
+If you want to help developing this project, please!
+If you want to report a bug or an improvment [open a issue](https://github.com/siloist/silo.ist/issues/)
