@@ -253,16 +253,16 @@ The heroes of this age fly toward the stars. They fly through regions previously
 
 This ceremony is carried out at the request of a group of people.
 
-Officiant: My mind is restless.
-Participants: My mind is restless.
-Officiant: My heart is troubled.
-Participants: My heart is troubled.
-Officiant: My body is tense.
-Participants: My body is tense.
-Officiant: I relax my body, my heart, and my mind.
-Participants: I relax my body, my heart, and my mind.
-When possible the participants are seated. The Assistant stands, reads a Principle or a passage from The Inner Look suited to the circumstances, and invites the participants to meditate on it. After a few minutes the Officiant stands and slowly reads the following phrases, pausing after each one.
-Officiant: Completely relax your body and quiet your mind...
+**Officiant**: My mind is restless.
+**Participants**: My mind is restless.
+**Officiant**: My heart is troubled.
+**Participants**: My heart is troubled.
+**Officiant**: My body is tense.
+**Participants**: My body is tense.
+**Officiant**: I relax my body, my heart, and my mind.
+**Participants**: I relax my body, my heart, and my mind.
+_When possible the participants are seated. The Assistant stands, reads a Principle or a passage from The Inner Look suited to the circumstances, and invites the participants to meditate on it. After a few minutes the Officiant stands and slowly reads the following phrases, pausing after each one._
+**Officiant**: Completely relax your body and quiet your mind...
 Then imagine a transparent and luminous sphere that descends toward you until it comes to rest in your heart...
 Notice that the sphere begins to transform into an expanding sensation within your chest...
 The sensation of the sphere expands from your heart toward the outside of your body, at the same time that you deepen your breathing...
@@ -273,10 +273,10 @@ Let the Force manifest within you...
 Try to see its light within your eyes, and do not stop it from acting by itself…
 Feel the Force and its inner light.
 Let it manifest freely…
-Assistant: With this Force that we have received, let us concentrate our minds on the fulfillment of what we truly need...
-The Assistant invites everyone to stand and carry out the Asking. After allowing some time to pass.
-Officiant: Peace, Force, and Joy!
-Participants: For you also, Peace, Force, and Joy!
+**Assistant**: With this Force that we have received, let us concentrate our minds on the fulfillment of what we truly need...
+_The Assistant invites everyone to stand and carry out the Asking. After allowing some time to pass._
+**Officiant**: Peace, Force, and Joy!
+**Participants**: For you also, Peace, Force, and Joy!
 
 ## LAYING ON OF HANDS
 
@@ -376,7 +376,7 @@ Come, prepare to enter the most beautiful Light…
 
 ## DEATH
 
-Officiant: Life has ceased in this body. We must now make an effort to separate in our minds the image of this body from the image of the person we remember...
+**Officiant**: Life has ceased in this body. We must now make an effort to separate in our minds the image of this body from the image of the person we remember...
 This body does not hear us. This body is not the person we remember...
 May those of you who do not feel the presence here of another life, separate from the body, consider that although death has paralyzed this body, the actions he/she carried out will continue to act, and their influence will never end. This chain of actions that was set in motion in life cannot be stopped by death. How profound it is to meditate on this truth, even though we may not completely comprehend the transformation of one action into another!
 And may those of you who do feel the presence of a separate life consider that death has only paralyzed this body, that the mind has once again triumphantly freed itself, opening its way toward the Light...
@@ -420,19 +420,35 @@ For you also, Peace, Force, and Joy.
 # THE PATH
 
 If you believe that your life will end with death, nothing that you think, feel, or do has any meaning. Everything will end with incoherence and disintegration.
+
 If you believe that your life does not end with death, you must bring into agreement what you think with what you feel and what you do. All must advance toward coherence, toward unity.
+
 If you are indifferent to the pain and suffering of others, none of the help that you ask for will find justification.
+
 If you are not indifferent to the pain and suffering of others, in order to help them you must bring your thoughts, feelings, and actions into agreement.
+
 Learn to treat others in the way that you want to be treated.
+
 Learn to surpass pain and suffering in yourself, in those close to you, and in human society.
+
 Learn to resist the violence that is within you and outside of you.
+
 Learn to recognize the signs of the sacred within you and around you.
+
 Do not let your life pass by without asking yourself, “Who am I?”
+
 Do not let your life pass by without asking yourself, “Where am I going?”
+
 Do not let a day pass by without giving an answer to yourself about who you are.
+
 Do not let a day pass by without giving an answer to yourself about where you are going.
+
 Do not let a great joy pass without giving thanks internally.
+
 Do not let a great sadness pass without calling into your interior for the joy that you have saved there.
+
 Do not imagine that you are alone in your village, in your city, on the Earth, or among the infinite worlds.
+
 Do not imagine that you are enchained to this time and this space.
+
 Do not imagine that in your death loneliness will become eternal.

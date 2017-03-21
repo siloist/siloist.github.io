@@ -434,7 +434,7 @@ contradiction ou agent de désintégration de l'énergie vitale.
 
 ## XVIII ACTION ET RÉACTION DE LA FORCE
 
-*Précédemment je t'ai expliqué : “ Lorsque tu trouves une grande force,
+*Précédemment je t'ai expliqué: “ Lorsque tu trouves une grande force,
 une grande joie et une grande bonté dans ton cœur, ou lorsque tu te sens
 libre et sans contradictions, remercie immédiatement en ton
 intérieur. ”*
@@ -645,21 +645,21 @@ lumineux.*
 
 *L’Office est réalisé à la demande d’un ensemble de personnes.*
 
-**Officiant** : Mon mental est inquiet.
+**Officiant**: Mon mental est inquiet.
 
-**Ensemble** : Mon mental est inquiet.
+**Ensemble**: Mon mental est inquiet.
 
-**Officiant** : Mon cœur est agité.
+**Officiant**: Mon cœur est agité.
 
-**Ensemble** : Mon cœur est agité.
+**Ensemble**: Mon cœur est agité.
 
-**Officiant** : Mon corps est tendu.
+**Officiant**: Mon corps est tendu.
 
 **Ensemble :** Mon corps est tendu.
 
-**Officiant** : Je relâche mon corps, mon cœur et mon mental.
+**Officiant**: Je relâche mon corps, mon cœur et mon mental.
 
-**Ensemble** : Je relâche mon corps, mon cœur et mon mental.
+**Ensemble**: Je relâche mon corps, mon cœur et mon mental.
 
 *Si possible, les participants sont assis. L'Auxiliaire laisse passer
 quelques minutes, cite un Principe ou une pensée du Regard Intérieur
@@ -667,7 +667,7 @@ selon les circonstances et invite à méditer sur le thème évoqué.
 Quelques minutes passent et finalement, l’Officiant, debout, lit
 lentement les phrases suivantes, en s’arrêtant après chacune d’elles.*
 
-**Officiant** : Relâche pleinement ton corps et tranquillise le mental…
+**Officiant**: Relâche pleinement ton corps et tranquillise le mental…
 
 Imagine alors une sphère transparente et lumineuse qui, en descendant
 vers toi, finit par se loger dans ton cœur…
@@ -695,13 +695,13 @@ Sens la Force et sa luminosité interne. 
 
 Laisse-la se manifester librement…
 
-**Auxiliaire** : Avec cette Force que nous avons reçue, concentrons le
+**Auxiliaire**: Avec cette Force que nous avons reçue, concentrons le
 mental sur l’accomplissement de ce dont nous avons réellement besoin. 
 
 *Il invite alors tout le monde à se lever pour effectuer la Demande. On
 laisse passer un peu de temps.*
 
-**Officiant** : Paix, force et Joie !
+**Officiant**: Paix, force et Joie !
 
 **Ensemble :** Pour toi aussi, Paix, Force et Joie !
 
@@ -710,26 +710,26 @@ laisse passer un peu de temps.*
 *L’Imposition est réalisée à la demande d'une ou de plusieurs personnes.
 L’Officiant et l’Auxiliaire sont debout.*
 
-**Officiant** : Mon mental est inquiet.
+**Officiant**: Mon mental est inquiet.
 
-**Ensemble** : Mon mental est inquiet.
+**Ensemble**: Mon mental est inquiet.
 
-**Officiant** : Mon cœur est agité.
+**Officiant**: Mon cœur est agité.
 
-**Ensemble** : Mon cœur est agité.
+**Ensemble**: Mon cœur est agité.
 
-**Officiant** : Mon corps est tendu.
+**Officiant**: Mon corps est tendu.
 
-**Ensemble** : Mon corps est tendu.
+**Ensemble**: Mon corps est tendu.
 
-**Officiant** : Je relâche mon corps, mon cœur et mon mental.
+**Officiant**: Je relâche mon corps, mon cœur et mon mental.
 
-**Ensemble** : Je relâche mon corps, mon cœur et mon mental.
+**Ensemble**: Je relâche mon corps, mon cœur et mon mental.
 
 *L'Officiant et l'Auxiliaire s'assoient et laissent passer un moment.
 L'Officiant se met debout.*
 
-**Officiant** : Si tu veux recevoir la Force, tu dois comprendre qu'au
+**Officiant**: Si tu veux recevoir la Force, tu dois comprendre qu'au
 moment de l'Imposition, tu commenceras à expérimenter de nouvelles
 sensations. Tu percevras des ondulations progressives et des émotions et
 des souvenirs positifs surgiront. Quand cela arrivera, laisse se
@@ -744,7 +744,7 @@ Laisse-la se manifester librement.
 
 *On laisse passer un moment; l'Auxiliaire se met debout.*
 
-**Auxiliaire** : Celui qui désire recevoir la Force peut se mettre
+**Auxiliaire**: Celui qui désire recevoir la Force peut se mettre
 debout
 
 *L'Auxiliaire invite les gens, selon le nombre de personnes, à rester
@@ -755,7 +755,7 @@ occasionnellement, en accompagne certains jusqu'à leur siège. Une fois
 l'Imposition terminée, on laisse passer un moment qui permet d'assimiler
 l'expérience.*
 
-**Auxiliaire** : Avec cette Force que nous avons reçue, concentrons le
+**Auxiliaire**: Avec cette Force que nous avons reçue, concentrons le
 mental sur l’accomplissement de ce dont nous avons réellement besoin, ou
 concentrons le mental sur ce dont un être très cher a réellement besoin.
 
@@ -765,9 +765,9 @@ une personne présente ou absente.*
 
 *On laisse passer un moment.*
 
-**Officiant** : Paix, Force et Joie !
+**Officiant**: Paix, Force et Joie !
 
-**Ensemble** : Pour toi aussi, Paix, Force et Joie !
+**Ensemble**: Pour toi aussi, Paix, Force et Joie !
 
 ## BIEN-ÊTRE
 
@@ -1055,7 +1055,7 @@ Nous consacrons la résistance juste face à toute forme de violence
 physique, économique, raciale, religieuse, sexuelle, psychologique et
 morale.
 
-**Officiant** : D’autre part, de la même manière que personne n’a le
+**Officiant**: D’autre part, de la même manière que personne n’a le
 droit de discriminer d’autres pour leur religion ou leur irréligiosité,
 nous réclamons pour nous le droit à proclamer notre spiritualité et
 notre croyance dans l’immortalité et dans le sacré.

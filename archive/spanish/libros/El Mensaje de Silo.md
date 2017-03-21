@@ -252,15 +252,15 @@ Así, hoy vuela hacia las estrellas el héroe de esta edad. Vuela a través de r
 Se realiza a pedido de un conjunto de personas.
 
 **Oficiante**: Mi mente está inquieta.
-Conjunto: Mi mente está inquieta.
-Oficiante: Mi corazón sobresaltado.
-Conjunto: Mi corazón sobresaltado.
-Oficiante: Mi cuerpo tenso.
-Conjunto: Mi cuerpo tenso.
-Oficiante: Aflojo mi cuerpo, mi corazón y mi mente.
-Conjunto: Aflojo mi cuerpo, mi corazón y mi mente.
+**Conjunto**: Mi mente está inquieta.
+**Oficiante**: Mi corazón sobresaltado.
+**Conjunto**: Mi corazón sobresaltado.
+**Oficiante**: Mi cuerpo tenso.
+**Conjunto**: Mi cuerpo tenso.
+**Oficiante**: Aflojo mi cuerpo, mi corazón y mi mente.
+**Conjunto**: Aflojo mi cuerpo, mi corazón y mi mente.
 En lo posible, los concurrentes están sentados. El Auxiliar se para y cita un Principio o pensamiento de La Mirada Interna de acuerdo a las circunstancias, invitando a la meditación sobre el mismo. Pasan unos minutos y finalmente el Oficiante de pie, lee lentamente las frases siguientes, deteniéndose en cada una de ellas.
-Oficiante: Relaja plenamente tu cuerpo y aquieta la mente...
+**Oficiante**: Relaja plenamente tu cuerpo y aquieta la mente...
 Entonces, imagina una esfera transparente y luminosa que bajando hasta ti, termina por alojarse en tu corazón...
 Reconocerás que la esfera comienza a transformarse en una sensación expansiva dentro de tu pecho...
 La sensación de la esfera se expande desde tu corazón hacia afuera del cuerpo, mientras amplías tu respiración...
@@ -271,35 +271,35 @@ Deja que la Fuerza se manifieste en ti...
 Trata de ver su luz adentro de tus ojos y no impidas que ella obre por sí sola...
 Siente la Fuerza y su luminosidad interna...
 Deja que se manifieste libremente...
-Auxiliar: Con esta Fuerza que hemos recibido, concentremos la mente en el cumplimiento de aquello que necesitamos realmente...
+**Auxiliar**: Con esta Fuerza que hemos recibido, concentremos la mente en el cumplimiento de aquello que necesitamos realmente...
 Invita a todos a ponerse de pie para que efectúen el Pedido. Luego transcurre un tiempo.
-Oficiante: ¡Paz, Fuerza y Alegría!
-Conjunto: También para ti, Paz, Fuerza y Alegría.
+**Oficiante**: ¡Paz, Fuerza y Alegría!
+**Conjunto**: También para ti, Paz, Fuerza y Alegría.
 
 ## IMPOSICIÓN
 
 Se realiza a pedido de una o varias personas. Oficiante y Auxiliar están de pie.
 
 **Oficiante**: Mi mente está inquieta.
-Conjunto: Mi mente está inquieta.
-Oficiante: Mi corazón sobresaltado.
-Conjunto: Mi corazón sobresaltado.
-Oficiante: Mi cuerpo tenso.
-Conjunto: Mi cuerpo tenso.
-Oficiante: Aflojo mi cuerpo, mi corazón y mi mente.
-Conjunto: Aflojo mi cuerpo, mi corazón y mi mente.
-Oficiante y Auxiliar se sientan, dejando transcurrir un tiempo. El Oficiante se pone de pie.
-Oficiante: Si quieres recibir la Fuerza debes comprender que en el momento de la Imposición comenzarás a experimentar nuevas sensaciones. Percibirás ondulaciones progresivas y brotarán emociones y recuerdos positivos. Cuando eso ocurra, deja que se produzca el pasaje de la Fuerza libremente...
+**Conjunto**: Mi mente está inquieta.
+**Oficiante**: Mi corazón sobresaltado.
+**Conjunto**: Mi corazón sobresaltado.
+**Oficiante**:Mi cuerpo tenso.
+**Conjunto**: Mi cuerpo tenso.
+**Oficiante**:Aflojo mi cuerpo, mi corazón y mi mente.
+**Conjunto**: Aflojo mi cuerpo, mi corazón y mi mente.
+_Oficiante y Auxiliar se sientan, dejando transcurrir un tiempo. El Oficiante se pone de pie._
+**Oficiante**: Si quieres recibir la Fuerza debes comprender que en el momento de la Imposición comenzarás a experimentar nuevas sensaciones. Percibirás ondulaciones progresivas y brotarán emociones y recuerdos positivos. Cuando eso ocurra, deja que se produzca el pasaje de la Fuerza libremente...
 Deja que la Fuerza se manifieste en ti y no impidas que ella obre por sí sola...
 Siente la Fuerza y su luminosidad interna...
 Deja que se manifieste libremente...
 Pasado un tiempo, el Auxiliar se pone de pie.
-Auxiliar: Quien desee recibir la Fuerza, se puede poner de pie.
+**Auxiliar**: Quien desee recibir la Fuerza, se puede poner de pie.
 El Auxiliar invita, de acuerdo al número de los concurrentes a permanecer de pie al lado de los asientos o a formar un círculo alrededor del Oficiante. Pasado un momento, el Oficiante comienza la imposición. El Auxiliar, si es el caso, facilita los desplazamientos de los partícipes y, ocasionalmente, acompaña a algunos hasta sus asientos. Terminada la Imposición, se da un tiempo de asimilación de la experiencia.
-Auxiliar: Con esta Fuerza que hemos recibido, concentremos la mente en el cumplimiento de aquello que necesitamos realmente, o bien concentremos la mente en aquello que alguien muy querido, necesita realmente.
+**Auxiliar**: Con esta Fuerza que hemos recibido, concentremos la mente en el cumplimiento de aquello que necesitamos realmente, o bien concentremos la mente en aquello que alguien muy querido, necesita realmente.
 Invita a todos a ponerse de pie para que efectúen silenciosamente sus pedidos. En ocasiones, alguno de los concurrentes formula un Pedido para alguien presente o ausente.
 Transcurre un tiempo.
-Oficiante: ¡Paz, Fuerza y Alegría!
+**Oficiante**: ¡Paz, Fuerza y Alegría!
 Conjunto: También para ti, Paz, Fuerza y Alegría.
 
 ## BIENESTAR
@@ -310,12 +310,12 @@ Se realiza a pedido de un conjunto de personas. Los partícipes, en lo posible, 
 **Oficiante**: Confiamos en que llegue hasta ellos nuestro pedido de bienestar. Pensamos en nuestros seres queridos; sentimos la presencia de nuestros seres queridos y experimentamos el contacto con nuestros seres queridos.
 **Auxiliar**: Tomaremos un corto tiempo para meditar en las dificultades que padecen esas personas...
 Se da unos pocos minutos para que los concurrentes puedan meditar.
-Oficiante. Quisiéramos ahora hacer sentir a aquellas personas, nuestros mejores deseos. Una oleada de alivio y bienestar debe llegar hasta ellas...
-Auxiliar. Tomaremos un corto tiempo para ubicar mentalmente la situación de bienestar que deseamos a nuestros seres queridos.
+**Oficiante**: Quisiéramos ahora hacer sentir a aquellas personas, nuestros mejores deseos. Una oleada de alivio y bienestar debe llegar hasta ellas...
+**Auxiliar**: Tomaremos un corto tiempo para ubicar mentalmente la situación de bienestar que deseamos a nuestros seres queridos.
 Se da unos pocos minutos para que los concurrentes puedan concentrar su mente.
-Oficiante. Concluiremos esta ceremonia dando la oportunidad, a quienes así lo deseen, de sentir la presencia de aquellos seres muy queridos que, aunque no están aquí en nuestro tiempo y en nuestro espacio, se relacionan con nosotros en la experiencia del amor, la paz y la cálida alegría...
+**Oficiante**: Concluiremos esta ceremonia dando la oportunidad, a quienes así lo deseen, de sentir la presencia de aquellos seres muy queridos que, aunque no están aquí en nuestro tiempo y en nuestro espacio, se relacionan con nosotros en la experiencia del amor, la paz y la cálida alegría...
 Se da un corto tiempo.
-Oficiante. Esto ha sido bueno para otros, reconfortante para nosotros e inspirador para nuestras vidas. Saludamos a todos inmersos en esta correntada de bienestar, reforzada por los buenos deseos de los aquí presentes.
+**Oficiante**: Esto ha sido bueno para otros, reconfortante para nosotros e inspirador para nuestras vidas. Saludamos a todos inmersos en esta correntada de bienestar, reforzada por los buenos deseos de los aquí presentes.
 
 ## PROTECCIÓN
 
@@ -336,18 +336,18 @@ Impone amablemente una mano sobre la cabeza de cada niño y lo besa en la frente
 
 Todos de pie. Una o varias parejas. Oficiante y Auxiliar de frente a las parejas.
 
-Auxiliar: Desde tiempos remotos, los casamientos han sido ceremonias de cambio de estado de las personas.
+**Auxiliar**: Desde tiempos remotos, los casamientos han sido ceremonias de cambio de estado de las personas.
 Cuando alguien termina o comienza una nueva etapa de la vida, suele acompañar a esa situación con un determinado ritual. Nuestra vida personal y social está ligada a rituales más o menos aceptados por las costumbres. Decimos nuestros saludos a la mañana, distintos que a la noche; estrechamos la mano a un conocido; festejamos un cumpleaños, una culminación de estudios o un cambio de trabajo. Nuestros deportes están acompañados de ritual y nuestras ceremonias religiosas, partidarias y cívicas nos colocan en la situación adecuada según sea el caso.
 El matrimonio es un cambio importante en el estado de las personas y en todas las naciones tal hecho exige ciertas formalidades legales. Es decir que la relación conyugal ubica a los consortes en una nueva situación con respecto a la comunidad y al Estado. Pero cuando una pareja establece vínculos conyugales lo hace pensando en un nuevo estilo de vida, lo hace con sentimiento profundo y no con espíritu formal.
 Hay por consiguiente, en esta ceremonia de cambio de estado, la intención de establecer un vínculo nuevo y en lo posible duradero con otra persona. Hay el deseo de recibir del otro lo mejor y dar al otro lo mejor. Hay la intención de llevar el vínculo más lejos, trayendo al mundo o adoptando niños.
 Viendo así el casamiento, concedemos importancia a la legalidad del vínculo, pero en cuanto al sentido espiritual y emocional decimos que únicamente los cónyuges dan significado a esta ceremonia.
 En otras palabras. Esta ceremonia pone a dos seres humanos en situación de emprender una vida nueva y es en esta ceremonia en donde los contrayentes realizan esa profunda unión de acuerdo a su propio sentir.
 Nosotros no casamos sino que ellos se casan delante de nuestra comunidad.
-Oficiante: Y para que esta ceremonia sea propia y verdadera, preguntamos: (dirigiéndose a un miembro de la pareja) ¿Qué es para ti este matrimonio?
+**Oficiante**: Y para que esta ceremonia sea propia y verdadera, preguntamos: (dirigiéndose a un miembro de la pareja) ¿Qué es para ti este matrimonio?
 Quien es demandado explica en voz alta…
-Oficiante: (Dirigiéndose al otro miembro). ¿Qué es para ti este matrimonio?
+**Oficiante**: (Dirigiéndose al otro miembro). ¿Qué es para ti este matrimonio?
 Quien es demandado explica en voz alta...
-Oficiante: Por consiguiente, este matrimonio será de acuerdo a los deseos expresados y a las intenciones más profundas. (Saluda afectuosamente a la/s pareja/s).
+**Oficiante**: Por consiguiente, este matrimonio será de acuerdo a los deseos expresados y a las intenciones más profundas. (Saluda afectuosamente a la/s pareja/s).
 
 ## ASISTENCIA
 
@@ -356,7 +356,7 @@ La ceremonia puede ser repetida a pedido del interesado o de aquellos que cuidan
 El Oficiante a solas con el moribundo.
 Cualquiera sea el aparente estado de lucidez o inconsciencia del moribundo, el Oficiante se aproxima a él hablando con voz suave, clara y pausada.
 
-Oficiante: Los recuerdos de tu vida son el juicio de tus acciones. Puedes, en poco tiempo, recordar mucho de lo mejor que hay en ti. Recuerda entonces, pero sin sobresalto y purifica tu memoria. Recuerda suavemente y tranquiliza tu mente...
+**Oficiante**: Los recuerdos de tu vida son el juicio de tus acciones. Puedes, en poco tiempo, recordar mucho de lo mejor que hay en ti. Recuerda entonces, pero sin sobresalto y purifica tu memoria. Recuerda suavemente y tranquiliza tu mente...
 Hace silencio por unos minutos, retomando luego la palabra con el mismo tono e intensidad.
 Rechaza ahora el sobresalto y el descorazonamiento...
 Rechaza ahora el deseo de huir hacia regiones obscuras...
@@ -375,7 +375,7 @@ Ven, prepárate a entrar en la más hermosa Luz...
 
 ## MUERTE
 
-Oficiante: La vida ha cesado en este cuerpo. Debemos hacer un esfuerzo para separar en nuestra mente la imagen de este cuerpo y la imagen de quien ahora recordamos...
+**Oficiante**: La vida ha cesado en este cuerpo. Debemos hacer un esfuerzo para separar en nuestra mente la imagen de este cuerpo y la imagen de quien ahora recordamos...
 Este cuerpo no nos escucha. Este cuerpo no es quien nosotros recordamos...
 Aquel que no siente la presencia de otra vida separada del cuerpo, considere que aunque la muerte haya paralizado al cuerpo, las acciones realizadas siguen actuando y su influencia no se detendrá jamás. Esta cadena de acciones desatadas en vida no puede ser detenida por la muerte. ¡Qué profunda es la meditación en torno a esta verdad, aunque no se comprenda totalmente la transformación de una acción en otra!
 Y aquel que siente la presencia de otra vida separada, considere igualmente que la muerte solo ha paralizado al cuerpo; que la mente una vez más se ha liberado triunfalmente y se abre paso hacia la Luz...
@@ -394,26 +394,26 @@ El auxiliar invita a quienes desean dar testimonio a ponerse de pie.
 El buen conocimiento lleva a la justicia.
 El buen conocimiento lleva a la reconciliación.
 El buen conocimiento lleva, también, a descifrar lo sagrado en la profundidad de la conciencia.
-Auxiliar (y conjunto de quienes testimonian, leyendo):
+**Auxiliar (y conjunto de quienes testimonian, leyendo):**
 Consideramos al ser humano como máximo valor por encima del dinero, del Estado, de la religión, de los modelos y de los sistemas sociales.
 Impulsamos la libertad de pensamiento.
 Propiciamos la igualdad de derechos y la igualdad de oportunidades para todos los seres humanos.
 Reconocemos y alentamos la diversidad de costumbres y culturas.
 Nos oponemos a toda discriminación.
 Consagramos la resistencia justa contra toda forma de violencia física, económica, racial, religiosa, sexual, psicológica y moral.
-Oficiante: Por otra parte, así como nadie tiene derecho a discriminar a otros por su religión o su irreligiosidad, reclamamos para nosotros el derecho a proclamar nuestra espiritualidad y creencia en la inmortalidad y en lo sagrado.
+**Oficiante**: Por otra parte, así como nadie tiene derecho a discriminar a otros por su religión o su irreligiosidad, reclamamos para nosotros el derecho a proclamar nuestra espiritualidad y creencia en la inmortalidad y en lo sagrado.
 Nuestra espiritualidad no es la espiritualidad de la superstición, no es la espiritualidad de la intolerancia, no es la espiritualidad del dogma, no es la espiritualidad de la violencia religiosa; es la espiritualidad que ha despertado de su profundo sueño para nutrir a los seres humanos en sus mejores aspiraciones.
-Auxiliar (y conjunto de quienes testimonian, leyendo):
+**Auxiliar (y conjunto de quienes testimonian, leyendo)**:
 Queremos dar coherencia a nuestras vidas haciendo coincidir lo que pensamos, sentimos y hacemos.
 Deseamos superar la mala conciencia reconociendo nuestros fracasos.
 Aspiramos a persuadir y a reconciliar.
 Nos proponemos dar creciente cumplimiento a esa regla que nos recuerda “tratar a los demás como queremos ser tratados“.
-Oficiante: Comenzaremos una vida nueva.
+**Oficiante**: Comenzaremos una vida nueva.
 Buscaremos en nuestro interior los signos de lo sagrado y llevaremos a otros nuestro mensaje.
 Auxiliar (y conjunto de quienes testimonian, leyendo):
 Hoy comenzaremos la renovación de nuestra vida. Empezaremos buscando la paz mental y la Fuerza que nos dé alegría y convicción. Después, iremos hasta las personas más cercanas a compartir con ellas todo lo grande y bueno que nos ha ocurrido.  
 **Oficiante**: Para todos Paz, Fuerza y Alegría
-Auxiliar (y todos los presentes):
+**Auxiliar (y todos los presentes)**:
 También para ti Paz, Fuerza y Alegría.
 
 # EL CAMINO
