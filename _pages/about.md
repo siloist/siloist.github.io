@@ -5,9 +5,9 @@ edit: true
 published: true
 ---
 
-the aim is to collect and preserve all Silo's written words, publishing them in modern future proof formats.
+The aim is to collect and preserve all Silo's written words, publishing them in modern future proof formats.
 
-Starign from the original documents from [silo.net](http://silo.net), we'll convert them into markdown text format.
+Starign from the original documents from [silo.net](http://silo.net), we'll convert them into [markdown](https://en.wikipedia.org/wiki/Markdown) text format.
 
 ## Team
 
