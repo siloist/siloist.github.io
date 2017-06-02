@@ -909,81 +909,81 @@ _Quando parlavo dell’accesso al “potere” da parte di una generazione, inte
 # NOTE A UMANIZZARE LA TERRA
 
 ## Lo sguardo interno
-Lo sguardo interno è diviso in venti capitoli, ciascuno dei quali è diviso in paragrafi numerati.  
-Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:  
-A. I primi due capitoli sono introduttivi e presentano l’intenzione di chi spiega, l’atteggiamento di chi ascolta e il modo in cui si intende portare avanti il rapporto tra autore e lettore.  
-B. I capitoli dal III al XII trattano le tematiche più generali che sono spiegate in dieci “giorni” di riflessione.  
-C. Con il capitolo XIII si conclude l’esposizione generale e si passa all’esame dei comportamenti e degli atteggiamenti che si assumono di fronte alla vita.  
+Lo sguardo interno è diviso in venti capitoli, ciascuno dei quali è diviso in paragrafi numerati.
+Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
+A. I primi due capitoli sono introduttivi e presentano l’intenzione di chi spiega, l’atteggiamento di chi ascolta e il modo in cui si intende portare avanti il rapporto tra autore e lettore.
+B. I capitoli dal III al XII trattano le tematiche più generali che sono spiegate in dieci “giorni” di riflessione.
+C. Con il capitolo XIII si conclude l’esposizione generale e si passa all’esame dei comportamenti e degli atteggiamenti che si assumono di fronte alla vita.
 D. I capitoli seguenti prendono in esame il lavoro interno.
 
-L’ordine dei temi è il seguente:  
-I. LA MEDITAZIONE - L’oggetto del libro: la trasformazione del non-senso in senso.  
-II. DISPOSIZIONE PER COMPRENDERE - L’atteggiamento mentale richiesto per comprendere i temi esposti.  
-III. IL NON-SENSO - Il senso della vita e la morte.  
-IV. LA DIPENDENZA - L’azione esercitata dall’ambiente sull’essere umano.  
-V. SOSPETTO DEL SENSO - Alcuni fenomeni mentali non abituali.  
-VI. SOGNO E RISVEGLIO - I diversi livelli di coscienza e la percezione della realtà (sonno, dormiveglia, veglia con divagazioni e veglia piena). Sensi esterni, interni e memoria.  
-VII. PRESENZA DELLA FORZA - Ascesa della comprensione nello stato di veglia. Energia o forza che circola nel corpo in cui si trova radicata.  
-VIII. CONTROLLO DELLA FORZA - Lo stato profondo e quello superficiale dell’energia vengono associati ai livelli di coscienza.  
-IX. MANIFESTAZIONI DELL’ENERGIA - Il controllo e la perdita del controllo dell’energia.  
-X. EVIDENZA DEL SENSO - Contraddizione interna, unità e continuità.  
-XI. IL CENTRO LUMINOSO - L’energia e il suo legame con l’allegorizzazione interna del “centro luminoso”. I fenomeni di integrazione interna “ascendono verso la luce”. La dissoluzione interna viene sperimentata come “allontanamento dalla luce”.  
-XII. LE SCOPERTE - Circolazione dell’energia. Livelli di coscienza. Natura della Forza rappresentata come “luce”. Esempi che illustrano questi temi.  
-XIII. I PRINCIPI - I principi intesi come punti di riferimento utili per il conseguimento dell’unità interna.  
-XIV. LA GUIDA DEL CAMMINO INTERNO - Rappresentazione dei fenomeni che accompagnano le due direzioni di “discesa” ed “ascesa”.  
-XV. L’ESPERIENZA DI PACE E IL PASSAGGIO DELLA FORZA - Procedimenti.  
-XVI. PROIEZIONE DELLA FORZA - Senso della “proiezione”.  
-XVII. PERDITA E REPRESSIONE DELLA FORZA - Scariche energetiche. Il sesso come centro produttore dell’energia.  
-XVIII. AZIONE E REAZIONE DELLA FORZA - Associazione tra rappresentazioni e cariche emotive. L’evocazione di un’immagine legata a degli stati emotivi suscita (restituisce) nuovamente gli stati emotivi associati. Il “ringraziamento”, inteso come una tecnica di associazione tra immagini e stati emotivi utilizzabile nella vita quotidiana.  
-XIX. GLI STATI INTERNI - Si prendono in esame le situazioni mentali in cui si verrà a trovare chi si dedica al lavoro interno.  
+L’ordine dei temi è il seguente:
+I. LA MEDITAZIONE - L’oggetto del libro: la trasformazione del non-senso in senso.
+II. DISPOSIZIONE PER COMPRENDERE - L’atteggiamento mentale richiesto per comprendere i temi esposti.
+III. IL NON-SENSO - Il senso della vita e la morte.
+IV. LA DIPENDENZA - L’azione esercitata dall’ambiente sull’essere umano.
+V. SOSPETTO DEL SENSO - Alcuni fenomeni mentali non abituali.
+VI. SOGNO E RISVEGLIO - I diversi livelli di coscienza e la percezione della realtà (sonno, dormiveglia, veglia con divagazioni e veglia piena). Sensi esterni, interni e memoria.
+VII. PRESENZA DELLA FORZA - Ascesa della comprensione nello stato di veglia. Energia o forza che circola nel corpo in cui si trova radicata.
+VIII. CONTROLLO DELLA FORZA - Lo stato profondo e quello superficiale dell’energia vengono associati ai livelli di coscienza.
+IX. MANIFESTAZIONI DELL’ENERGIA - Il controllo e la perdita del controllo dell’energia.
+X. EVIDENZA DEL SENSO - Contraddizione interna, unità e continuità.
+XI. IL CENTRO LUMINOSO - L’energia e il suo legame con l’allegorizzazione interna del “centro luminoso”. I fenomeni di integrazione interna “ascendono verso la luce”. La dissoluzione interna viene sperimentata come “allontanamento dalla luce”.
+XII. LE SCOPERTE - Circolazione dell’energia. Livelli di coscienza. Natura della Forza rappresentata come “luce”. Esempi che illustrano questi temi.
+XIII. I PRINCIPI - I principi intesi come punti di riferimento utili per il conseguimento dell’unità interna.
+XIV. LA GUIDA DEL CAMMINO INTERNO - Rappresentazione dei fenomeni che accompagnano le due direzioni di “discesa” ed “ascesa”.
+XV. L’ESPERIENZA DI PACE E IL PASSAGGIO DELLA FORZA - Procedimenti.
+XVI. PROIEZIONE DELLA FORZA - Senso della “proiezione”.
+XVII. PERDITA E REPRESSIONE DELLA FORZA - Scariche energetiche. Il sesso come centro produttore dell’energia.
+XVIII. AZIONE E REAZIONE DELLA FORZA - Associazione tra rappresentazioni e cariche emotive. L’evocazione di un’immagine legata a degli stati emotivi suscita (restituisce) nuovamente gli stati emotivi associati. Il “ringraziamento”, inteso come una tecnica di associazione tra immagini e stati emotivi utilizzabile nella vita quotidiana.
+XIX. GLI STATI INTERNI - Si prendono in esame le situazioni mentali in cui si verrà a trovare chi si dedica al lavoro interno.
 XX. LA REALTA’ INTERIORE - I processi mentali legati a rappresentazioni allegoriche del mondo esterno.
 
 ## Il paesaggio interno
-Il paesaggio interno è diviso in diciotto capitoli, ciascuno dei quali è diviso in paragrafi numerati.  
-Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:  
-A. I primi due capitoli sono introduttivi e presentano al lettore alcune domande: gli si chiede se è felice od infelice e quali sono i suoi interessi nella vita.  
-B. Dal capitolo III al VI vengono studiati i diversi tipi di paesaggio (esterno, umano e interno) e le loro interazioni.  
-C. Il capitolo VII affronta i temi del dolore, della sofferenza e del senso della vita. Tali temi, insieme a quello relativo alla validità dell’azione nel mondo, saranno presenti fino al capitolo XIII.  
+Il paesaggio interno è diviso in diciotto capitoli, ciascuno dei quali è diviso in paragrafi numerati.
+Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
+A. I primi due capitoli sono introduttivi e presentano al lettore alcune domande: gli si chiede se è felice od infelice e quali sono i suoi interessi nella vita.
+B. Dal capitolo III al VI vengono studiati i diversi tipi di paesaggio (esterno, umano e interno) e le loro interazioni.
+C. Il capitolo VII affronta i temi del dolore, della sofferenza e del senso della vita. Tali temi, insieme a quello relativo alla validità dell’azione nel mondo, saranno presenti fino al capitolo XIII.
 D. Nei capitoli dal XIV al XVIII appare in primo piano la tematica relativa alla direzione delle azioni umane ed ai motivi che determinano tale direzione; parallelamente, viene avanzata la proposta di dare un diverso senso alla propria vita.
 
-L’ordine dei temi è il seguente:  
-I. LA DOMANDA - Si porta avanti una ricerca sulla felicità e sulla sofferenza. Si propone una direzione per superare la sofferenza.  
-II. LA REALTA’ - Si mette in discussione la natura del “reale”, mostrando che quanto viene percepito risulta sempre vincolato alla conformazione dell’essere umano.  
-III. IL PAESAGGIO ESTERNO - Si mette in evidenza il fatto che il paesaggio esterno muta in funzione di ciò che accade all’interno di chi lo percepisce.  
-IV. IL PAESAGGIO UMANO - Si descrive il paesaggio umano chiamando in causa l’interiorità del soggetto; non si riconosce agli attuali partiti o fazioni il diritto di esigere risposte sui problemi individuali e sociali nei termini da loro stessi utilizzati. Si sostiene la necessità di definire chiaramente l’azione nel mondo umano.  
-V. IL PAESAGGIO INTERNO - Si spiega che le credenze costituiscono la base delle azioni umane. Ma si mette anche in evidenza il fatto che il paesaggio interno non è solo un campo di credenze ma anche un campo di ricordi, percezioni ed immagini. Si chiarisce che il paesaggio interno e quello esterno sono termini correlati che conformano una struttura e che possono essere alternativamente presi come atto o come oggetto.  
-VI. CENTRO E RIFLESSO - Si mostra la possibilità di portarsi al centro del proprio paesaggio interno, centro del quale qualsiasi direzione scelta costituisce un riflesso. Inoltre si chiarisce come la via dell’apprendimento passi attraverso il fare e non attraverso la contemplazione.  
-VII. DOLORE, SOFFERENZA E SENSO DELLA VITA - Si analizzano le differenze tra dolore fisico e sofferenza mentale. Nella frase “Umanizzare la Terra” si pone la chiave del senso della vita, facendo risaltare la supremazia del futuro sugli altri tempi della coscienza.  
-VIII. IL CAVALIERE E LA SUA OMBRA - Rispetto ai precedenti, questo capitolo è caratterizzato da un radicale cambiamento di stile. Si torna comunque sul problema dei tempi nella vita umana, nei quali si cerca la radice del ricordo, della percezione e dell’immaginazione. Queste tre vie vengono poi considerate come “le tre vie della sofferenza” a misura che la contraddizione inverte i tempi della coscienza.  
-IX. CONTRADDIZIONE E UNITA’ - Prosegue l’esposizione del gioco dei tempi. Si mettono in evidenza le differenze esistenti tra i problemi quotidiani o difficoltà, e la contraddizione. Si descrivono le caratteristiche che definiscono quest’ultima. Si presentano alcune proposte di cambiamento riguardo all’organizzazione del paesaggio interno.  
-X. L’AZIONE VALIDA - Si spiega che la sofferenza è generata non solo dalla contraddizione ma da qualunque inversione della corrente crescente della vita. Si mette in evidenza l’importanza dell’“azione valida”, intesa come azione unitiva capace di vincere la contraddizione. Questo capitolo porta avanti una critica velata dei fondamenti della morale ai quali contesta di non essere stati elaborati in base alla necessità di dare unità all’essere umano e fornisce dei punti di riferimento utili a vincere la contraddizione e la sofferenza.  
-XI. PROIEZIONE DEL PAESAGGIO INTERNO - Si mette in evidenza il fatto che le azioni contraddittorie e quelle unitive risultano determinanti per il futuro tanto del soggetto che di coloro con i quali questi è in contatto. In questo senso, la contraddizione individuale “contamina” gli altri; parimenti l’unità di un individuo produce effetti positivi sugli altri.  
-XII. COMPENSAZIONE, RIFLESSO E FUTURO - in questo capitolo riappare l’antica discussione tra determinismo e libertà. Si passa rapidamente in rassegna la meccanica degli atti, considerati od all’interno di un gioco di compensazioni o come riflesso del paesaggio esterno; si prende in esame anche l’incidente inteso come fenomeno che può invalidare completamente un progetto umano. Infine, si dà risalto al fatto che la vita cerca una crescita senza limiti, superando condizioni apparentemente determinanti.  
-XIII. I “SENSI PROVVISORI” - Si delinea una dialettica tra “sensi provvisori” e “senso della vita”. Si colloca in cima alla scala dei valori l’affermazione della vita e si suggerisce che la ribellione contro la morte costituisce il motore di ogni progresso.  
-XIV. LA FEDE - Si descrive l’immediata impressione di sospetto che si prova nell’ascoltare la parola “fede”. Si analizzano le differenze tra fede ingenua, fede fanatica e fede al servizio della vita. Si attribuisce alla fede un’importanza speciale, trattandosi dell’energia che alimenta l’entusiasmo vitale.  
-XV. DARE E RICEVERE - Si sostiene che l’atto del dare (a differenza di quello del ricevere, che è centripeto e muore nel soggetto) apre il futuro e che ogni azione valida è basata su questo tipo di atto. La direzione di una vita contraddittoria può essere modificata proprio grazie al dare.  
-XVI. I MODELLI DI VITA - Si presentano i “modelli” come immagini che motivano le attività nel mondo esterno. Si descrivono le trasformazioni che tali immagini subiscono con il mutare del paesaggio interno.  
-XVII. LA GUIDA INTERNA - Si trasmette l’idea che nel paesaggio interno esistono modelli che costituiscono degli esempi di condotta per il soggetto. Tali modelli possono essere definiti come “guide interne”.  
+L’ordine dei temi è il seguente:
+I. LA DOMANDA - Si porta avanti una ricerca sulla felicità e sulla sofferenza. Si propone una direzione per superare la sofferenza.
+II. LA REALTA’ - Si mette in discussione la natura del “reale”, mostrando che quanto viene percepito risulta sempre vincolato alla conformazione dell’essere umano.
+III. IL PAESAGGIO ESTERNO - Si mette in evidenza il fatto che il paesaggio esterno muta in funzione di ciò che accade all’interno di chi lo percepisce.
+IV. IL PAESAGGIO UMANO - Si descrive il paesaggio umano chiamando in causa l’interiorità del soggetto; non si riconosce agli attuali partiti o fazioni il diritto di esigere risposte sui problemi individuali e sociali nei termini da loro stessi utilizzati. Si sostiene la necessità di definire chiaramente l’azione nel mondo umano.
+V. IL PAESAGGIO INTERNO - Si spiega che le credenze costituiscono la base delle azioni umane. Ma si mette anche in evidenza il fatto che il paesaggio interno non è solo un campo di credenze ma anche un campo di ricordi, percezioni ed immagini. Si chiarisce che il paesaggio interno e quello esterno sono termini correlati che conformano una struttura e che possono essere alternativamente presi come atto o come oggetto.
+VI. CENTRO E RIFLESSO - Si mostra la possibilità di portarsi al centro del proprio paesaggio interno, centro del quale qualsiasi direzione scelta costituisce un riflesso. Inoltre si chiarisce come la via dell’apprendimento passi attraverso il fare e non attraverso la contemplazione.
+VII. DOLORE, SOFFERENZA E SENSO DELLA VITA - Si analizzano le differenze tra dolore fisico e sofferenza mentale. Nella frase “Umanizzare la Terra” si pone la chiave del senso della vita, facendo risaltare la supremazia del futuro sugli altri tempi della coscienza.
+VIII. IL CAVALIERE E LA SUA OMBRA - Rispetto ai precedenti, questo capitolo è caratterizzato da un radicale cambiamento di stile. Si torna comunque sul problema dei tempi nella vita umana, nei quali si cerca la radice del ricordo, della percezione e dell’immaginazione. Queste tre vie vengono poi considerate come “le tre vie della sofferenza” a misura che la contraddizione inverte i tempi della coscienza.
+IX. CONTRADDIZIONE E UNITA’ - Prosegue l’esposizione del gioco dei tempi. Si mettono in evidenza le differenze esistenti tra i problemi quotidiani o difficoltà, e la contraddizione. Si descrivono le caratteristiche che definiscono quest’ultima. Si presentano alcune proposte di cambiamento riguardo all’organizzazione del paesaggio interno.
+X. L’AZIONE VALIDA - Si spiega che la sofferenza è generata non solo dalla contraddizione ma da qualunque inversione della corrente crescente della vita. Si mette in evidenza l’importanza dell’“azione valida”, intesa come azione unitiva capace di vincere la contraddizione. Questo capitolo porta avanti una critica velata dei fondamenti della morale ai quali contesta di non essere stati elaborati in base alla necessità di dare unità all’essere umano e fornisce dei punti di riferimento utili a vincere la contraddizione e la sofferenza.
+XI. PROIEZIONE DEL PAESAGGIO INTERNO - Si mette in evidenza il fatto che le azioni contraddittorie e quelle unitive risultano determinanti per il futuro tanto del soggetto che di coloro con i quali questi è in contatto. In questo senso, la contraddizione individuale “contamina” gli altri; parimenti l’unità di un individuo produce effetti positivi sugli altri.
+XII. COMPENSAZIONE, RIFLESSO E FUTURO - in questo capitolo riappare l’antica discussione tra determinismo e libertà. Si passa rapidamente in rassegna la meccanica degli atti, considerati od all’interno di un gioco di compensazioni o come riflesso del paesaggio esterno; si prende in esame anche l’incidente inteso come fenomeno che può invalidare completamente un progetto umano. Infine, si dà risalto al fatto che la vita cerca una crescita senza limiti, superando condizioni apparentemente determinanti.
+XIII. I “SENSI PROVVISORI” - Si delinea una dialettica tra “sensi provvisori” e “senso della vita”. Si colloca in cima alla scala dei valori l’affermazione della vita e si suggerisce che la ribellione contro la morte costituisce il motore di ogni progresso.
+XIV. LA FEDE - Si descrive l’immediata impressione di sospetto che si prova nell’ascoltare la parola “fede”. Si analizzano le differenze tra fede ingenua, fede fanatica e fede al servizio della vita. Si attribuisce alla fede un’importanza speciale, trattandosi dell’energia che alimenta l’entusiasmo vitale.
+XV. DARE E RICEVERE - Si sostiene che l’atto del dare (a differenza di quello del ricevere, che è centripeto e muore nel soggetto) apre il futuro e che ogni azione valida è basata su questo tipo di atto. La direzione di una vita contraddittoria può essere modificata proprio grazie al dare.
+XVI. I MODELLI DI VITA - Si presentano i “modelli” come immagini che motivano le attività nel mondo esterno. Si descrivono le trasformazioni che tali immagini subiscono con il mutare del paesaggio interno.
+XVII. LA GUIDA INTERNA - Si trasmette l’idea che nel paesaggio interno esistono modelli che costituiscono degli esempi di condotta per il soggetto. Tali modelli possono essere definiti come “guide interne”.
 XVIII. IL CAMBIAMENTO - Si studia la possibilità di trasformare volontariamente il comportamento umano.
 
 ## Il paesaggio umano
-Il paesaggio umano è diviso in tredici capitoli, ciascuno dei quali è diviso in paragrafi numerati.  
-Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:  
-A. I primi cinque capitoli sono dedicati a chiarire il significato del paesaggio umano ed il significato dello sguardo che ad esso si riferisce.  
-B. I sette capitoli seguenti analizzano diverse questioni che si presentano nel paesaggio umano.  
+Il paesaggio umano è diviso in tredici capitoli, ciascuno dei quali è diviso in paragrafi numerati.
+Per quanto riguarda i contenuti, il libro è articolato nel modo seguente:
+A. I primi cinque capitoli sono dedicati a chiarire il significato del paesaggio umano ed il significato dello sguardo che ad esso si riferisce.
+B. I sette capitoli seguenti analizzano diverse questioni che si presentano nel paesaggio umano.
 C. Nel capitolo XIII, quando tale analisi è ormai conclusa, si invita il lettore a continuare lo studio, occupandosi di alcuni temi importanti che quest’opera non ha preso in esame.
 
-L’ordine dei temi è il seguente:  
-I. I PAESAGGI E GLI SGUARDI - Si analizzano le differenze fra paesaggio interno, esterno ed umano. Iniziano le distinzioni fra i differenti tipi di “sguardo”.  
-II. L’UMANO E LO SGUARDO ESTERNO - Si prende in esame quanto è stato detto sull’essere umano utilizzando uno “sguardo esterno”.  
-III. IL CORPO UMANO COME OGGETTO DELL’INTENZIONE - L’intenzionalità ed il controllo del proprio corpo senza intermediazioni. L’oggettivazione del corpo dell’altro e lo “svuotamento” della sua soggettività.  
-IV.  MEMORIA E PAESAGGIO UMANO - La non coincidenza fra il paesaggio umano percepito nel presente ed il paesaggio umano relativo al tempo di formazione di colui che percepisce.  
-V. LA DISTANZA CHE IL PAESAGGIO UMANO IMPONE - Le distanze fra il paesaggio umano percepito e il paesaggio umano rappresentato non sono date solo da una differenza di tempo, ma dai modi di stare nel mondo che sono funzione dell’emozione e del corpo.  
-VI. L’EDUCAZIONE - Si sostiene che un’educazione integrale debba preoccuparsi di sviluppare un pensiero coerente, inteso come contatto con i propri vissuti del pensare; che debba facilitare la sensibilità e lo sviluppo emotivo, intesi come contatto con se stessi e con gli altri; e che non debba scartare pratiche che mettano in gioco tutte le risorse corporee. Si traccia una linea di demarcazione fra l’educazione intesa come formazione e l’informazione intesa come assimilazione di dati attraverso lo studio e la pratica, che è anch’essa una forma di studio.  
-VII. LA STORIA - Fino ad oggi la storia è stata vista “dal di fuori”, senza prendere in considerazione l’intenzionalità umana.  
-VIII. LE IDEOLOGIE - Nell’epoca di crisi delle ideologie sorgono falsi schematismi che pretendono di rappresentare la realtà così com’è. E’ il caso del cosiddetto “pragmatismo”.  
-IX. LA VIOLENZA - La non violenza come metodologia di lotta politica e sociale non ha bisogno di giustificazioni. E’ un sistema in cui domina la violenza ad aver bisogno di giustificazioni per imporsi. Inoltre si analizzano le differenze fra pacifismo e non violenza.  
-X. LA LEGGE - Si parla dell’origine della legge e del tema del potere inteso come premessa di ogni diritto.  
-XI. LO STATO - Lo Stato come apparato avente la funzione di intermediazione tra il potere reale di una parte della società e la totalità sociale.  
-XII. LA RELIGIONE - Le religioni intese come “esteriorità” dato che vogliono parlare di Dio e non dell’esperienza interiore di Dio nell’essere umano.  
+L’ordine dei temi è il seguente:
+I. I PAESAGGI E GLI SGUARDI - Si analizzano le differenze fra paesaggio interno, esterno ed umano. Iniziano le distinzioni fra i differenti tipi di “sguardo”.
+II. L’UMANO E LO SGUARDO ESTERNO - Si prende in esame quanto è stato detto sull’essere umano utilizzando uno “sguardo esterno”.
+III. IL CORPO UMANO COME OGGETTO DELL’INTENZIONE - L’intenzionalità ed il controllo del proprio corpo senza intermediazioni. L’oggettivazione del corpo dell’altro e lo “svuotamento” della sua soggettività.
+IV.MEMORIA E PAESAGGIO UMANO - La non coincidenza fra il paesaggio umano percepito nel presente ed il paesaggio umano relativo al tempo di formazione di colui che percepisce.
+V. LA DISTANZA CHE IL PAESAGGIO UMANO IMPONE - Le distanze fra il paesaggio umano percepito e il paesaggio umano rappresentato non sono date solo da una differenza di tempo, ma dai modi di stare nel mondo che sono funzione dell’emozione e del corpo.
+VI. L’EDUCAZIONE - Si sostiene che un’educazione integrale debba preoccuparsi di sviluppare un pensiero coerente, inteso come contatto con i propri vissuti del pensare; che debba facilitare la sensibilità e lo sviluppo emotivo, intesi come contatto con se stessi e con gli altri; e che non debba scartare pratiche che mettano in gioco tutte le risorse corporee. Si traccia una linea di demarcazione fra l’educazione intesa come formazione e l’informazione intesa come assimilazione di dati attraverso lo studio e la pratica, che è anch’essa una forma di studio.
+VII. LA STORIA - Fino ad oggi la storia è stata vista “dal di fuori”, senza prendere in considerazione l’intenzionalità umana.
+VIII. LE IDEOLOGIE - Nell’epoca di crisi delle ideologie sorgono falsi schematismi che pretendono di rappresentare la realtà così com’è. E’ il caso del cosiddetto “pragmatismo”.
+IX. LA VIOLENZA - La non violenza come metodologia di lotta politica e sociale non ha bisogno di giustificazioni. E’ un sistema in cui domina la violenza ad aver bisogno di giustificazioni per imporsi. Inoltre si analizzano le differenze fra pacifismo e non violenza.
+X. LA LEGGE - Si parla dell’origine della legge e del tema del potere inteso come premessa di ogni diritto.
+XI. LO STATO - Lo Stato come apparato avente la funzione di intermediazione tra il potere reale di una parte della società e la totalità sociale.
+XII. LA RELIGIONE - Le religioni intese come “esteriorità” dato che vogliono parlare di Dio e non dell’esperienza interiore di Dio nell’essere umano.
 XIII. I CAMMINI APERTI - Conclusione del libro e invito al lettore a studiare e sviluppare temi importanti del paesaggio umano che non sono stati trattati in quest’opera.
