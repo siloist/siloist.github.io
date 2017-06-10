@@ -1,6 +1,10 @@
 # silo.ist
-the http://silo.ist website
-the aim is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
+The http://silo.ist website.
+The purpouse of this porject is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
+
+# Silo
+Silo is the pseudonym of Mario Luis Rodríguez Cobos. He was born in 1938 near Mendoza, located between Argentina and Chile. His writings have been translated into numerous languages.
+His official site is <http://silo.net>
 
 ## People
 the project has been launched by [Stefano Cecere](https://github.com/StefanoCecere) and Federico Palumbo
