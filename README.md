@@ -2,21 +2,20 @@
 The http://silo.ist website.
 The purpouse of this porject is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
 
-# Silo
-Silo is the pseudonym of Mario Luis Rodríguez Cobos. He was born in 1938 near Mendoza, located between Argentina and Chile. His writings have been translated into numerous languages.
+## Silo
+Silo is the pseudonym of Mario Luis Rodríguez Cobos. He was born in 1938 near Mendoza, located between Argentina and Chile. His writings have been translated into numerous languages.  
 His official site is <http://silo.net>
 
-## People
-the project has been launched by [Stefano Cecere](https://github.com/StefanoCecere) and Federico Palumbo
+## People and maintainers
+The project has been launched by [Stefano Cecere](https://github.com/StefanoCecere) and Federico Palumbo
 
 ## Contribute
-please submit an [issue](https://github.com/Siloist/silo.ist/issues) if you have any comment and critics
+Please submit an [issue](https://github.com/Siloist/silo.ist/issues) if you have any comment and critics
 fork the project and start submitting pull request if you want to contribute
 
 ## Technology
 The site is build with Jekyll - http://jekyllrb.com/
-and hosted here at GitHub.
+and hosted at GitHub.
 
 ## Contributor notes
-to startup the local Jekyll site:
-`bundle exec jekyll serve`
+To launch the local Jekyll site: `bundle exec jekyll serve`
