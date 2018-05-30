@@ -45,3 +45,6 @@ _21 Novembre 1993_
 
 \------------------------------
 \1. L'Autore fa un gioco di parole intraducibile basato sul fatto che in spagnolo caveau si dice "arca" (N.d.T.).
+
+<a href="/it/libri/lettere-ai-miei-amici-10/">Lettere ai miei amici - 10</a>
+

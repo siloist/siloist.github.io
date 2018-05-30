@@ -65,3 +65,6 @@ Ricevete, con questa lettera, un caloroso saluto.
 _19 Dicembre 1991_
 \------------------------------
 \1. La citata conferenza si trova in "Discorsi" in questo stesso volume
+
+<a href="/it/libri/lettere-ai-miei-amici-5/">Lettere ai miei amici - 5</a>
+

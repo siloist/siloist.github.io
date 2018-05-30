@@ -81,3 +81,5 @@ Mi auguro di poter sviluppare altri temi nella prossima lettera.
 Ricevete, con questa, un caloroso saluto.
 
 _5 Aprile 1993_
+
+<a href="/it/libri/lettere-ai-miei-amici-7/">Lettere ai miei amici - 7</a>

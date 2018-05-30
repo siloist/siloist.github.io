@@ -59,3 +59,5 @@ Oggi vanno per la maggiore due modi di vedere le cose che ci interessano in modo
 Ricevete, con questa lettera, un caloroso saluto.
 
  _10 Agosto 1993_
+
+<a href="/it/libri/lettere-ai-miei-amici-9/">Lettere ai miei amici - 9</a>

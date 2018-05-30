@@ -6,9 +6,7 @@ date: 1991-02-21T00:00:00+00:00
 lang: it
 group: letters
 ---
-# Lettere ai miei amici - 1
-
-**Sulla crisi personale e sociale di questo momento storico**
+# PRIMA LETTERA AI MIEI AMICI
 
 Cari amici,
 
@@ -65,3 +63,5 @@ Ho cercato di descrivere alcune caratteristiche speciali che si stanno presentan
 Ricevete, con questa lettera, un caloroso saluto.
 
 _21 Febbraio 1991_
+
+<a href="/it/libri/lettere-ai-miei-amici-2/">Lettere ai miei amici - 2</a>

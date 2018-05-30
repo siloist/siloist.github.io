@@ -38,3 +38,5 @@ Spero, amici miei, di passare a temi che ci diano più animo nella prossima lett
 Ricevete, con questa lettera, un caloroso saluto.
 
 _5 Dicembre 1991_
+
+<a href="/it/libri/lettere-ai-miei-amici-3/">Lettere ai miei amici - 3</a>

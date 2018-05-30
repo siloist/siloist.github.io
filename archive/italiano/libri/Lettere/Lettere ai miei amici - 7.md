@@ -42,3 +42,5 @@ E’ con l’esercizio della violenza che una minoranza impone le proprie condiz
 Ricevete, con questa lettera, un caloroso saluto.
 
 _7 Agosto 1993_
+
+<a href="/it/libri/lettere-ai-miei-amici-8/">Lettere ai miei amici - 8</a>
