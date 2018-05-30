@@ -19,5 +19,3 @@ and hosted at GitHub.
 
 ## Contributor notes
 To launch the local Jekyll site: `bundle exec jekyll serve`
-
-
