@@ -54,9 +54,9 @@ Gli umanisti pongono il problema di base che è questo: sapere se si vuole viver
 Qualsiasi forma di violenza - fisica, economica, razziale, religiosa, sessuale, ideologica - attraverso cui il progresso umano è stato bloccato, ripugna agli umanisti. Qualsiasi forma di discriminazione - manifesta o larvata - costituisce per gli umanisti un motivo di denuncia.
 Gli umanisti non sono violenti ma soprattutto non sono codardi e non hanno paura di affrontare la violenza perché sanno che le loro azioni hanno un senso. Gli umanisti collegano sempre la loro vita personale con quella sociale. Non propongono false antinomie e in ciò risiede la loro coerenza.
 Risulta così tracciata la linea di demarcazione tra l’Umanesimo e l’Anti-umanesimo. L’umanesimo pone al primo posto il lavoro rispetto al grande capitale; la Democrazia reale rispetto alla Democrazia formale; il decentramento rispetto al centralismo; la non-discriminazione rispetto alla discriminazione;  la libertà rispetto all’oppressione; il senso della vita rispetto alla rassegnazione, al conformismo ed all’idea che tutto sia assurdo.  
-Poiché si basa sulla libertà di scelta, l’Umanesimo possiede l’unica etica valida nel momento attuale. Allo stesso modo, poiché crede nelle intenzioni e nella libertà, distingue tra errore e malafede, tra colui che sbaglia e colui che tradisce. 
+Poiché si basa sulla libertà di scelta, l’Umanesimo possiede l’unica etica valida nel momento attuale. Allo stesso modo, poiché crede nelle intenzioni e nella libertà, distingue tra errore e malafede, tra colui che sbaglia e colui che tradisce.
 
-**IV. Dall’umanesimo ingenuo all’umanesimo cosciente **
+## 4. Dall’umanesimo ingenuo all’umanesimo cosciente
 
 E’ nella base sociale, è nei luoghi in cui i lavoratori risiedono o svolgono la loro attività che l’Umanesimo deve trasformare la semplice protesta in una forza cosciente che abbia come obiettivo la trasformazione delle strutture economiche. 
 Quanto ai membri più combattivi delle organizzazioni sindacali e dei partiti politici progressisti, bisogna dire che la loro lotta diventerà coerente nella misura in cui sarà diretta a trasformare i vertici delle organizzazioni a cui sono iscritti e nella misura in cui darà a tali organizzazioni un indirizzo che, al di là delle rivendicazioni di corto respiro, faccia propri gli aspetti fondamentali dell’Umanesimo.
@@ -74,8 +74,6 @@ Sarebbe impossibile fare un inventario completo dei trucchi, degli strumenti, de
 
 L’Umanesimo organizza fronti d’azione nei luoghi \di residenza, nel mondo del lavoro, nel mondo sindacale, politico e culturale con l’intento di trasformarsi, poco a poco, in un movimento a carattere sociale. Con queste attività esso cerca di creare le condizioni per integrare forze diverse, gruppi ed individui progressisti senza che questi perdano la loro identità e le loro caratteristiche particolari. L’obiettivo del movimento umanista è quello di promuovere l’unione tra forze che possano influire sempre di più su vasti settori della popolazione e di orientare con la sua azione la trasformazione sociale.
 Gli umanisti non sono ingenui né si gonfiano il petto con dichiarazioni di sapore romantico. In questo senso non credono che le loro proposte  siano l’espressione più avanzata della coscienza sociale né pensano che la propria organizzazione sia qualcosa d’indiscutibile. Gli umanisti non fingono di essere i rappresentanti della maggioranza. In tutti i casi, agiscono in accordo con ciò che ritengono più giusto e favoriscono le trasformazioni che credono possibili ed adatte all’epoca in cui è toccato loro vivere.
-
----
 
 Mi auguro di poter sviluppare altri temi nella prossima lettera.
 Ricevete, con questa, un caloroso saluto.
