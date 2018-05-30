@@ -11,8 +11,8 @@ Starign from the original documents from [silo.net](http://silo.net), we'll conv
 
 ## Team
 
-* Stefano Cecere
-* Federico Palumbo
+- Stefano Cecere
+- Federico Palumbo
 
 ## Get Involved
 
