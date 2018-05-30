@@ -6,7 +6,6 @@ date: 1991-02-21T00:00:00+00:00
 lang: it
 group: letters
 ---
-
 # Lettere ai miei amici - 1
 
 **Sulla crisi personale e sociale di questo momento storico**
