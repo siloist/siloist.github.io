@@ -2,8 +2,8 @@ title: Silo.ist
 short_title: the words of Silo
 email: stefano.cecere@gmail.com
 description: the complete words and works archive by Mario Rodriguez Cobos
-baseurl: "/silo"
-url: "https://siloist.github.io/silo"
+baseurl: ""
+url: "https://siloist.github.io"
 github_username: siloist
 github_repo: archive
 
