@@ -1,5 +1,5 @@
 # silo.ist
-The http://silo.ist website.
+The https://siloist.github.io/silo/ website.
 The purpouse of this porject is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
 
 ## Silo
