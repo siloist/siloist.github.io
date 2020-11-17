@@ -1,6 +1,6 @@
 # silo.ist
 The https://siloist.github.io/ website.
-The purpouse of this porject is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
+The purpose of this project is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permanent accessibility.
 
 ## Silo
 Silo is the pseudonym of Mario Luis Rodríguez Cobos. He was born in 1938 near Mendoza, located between Argentina and Chile. His writings have been translated into numerous languages.  
