@@ -1,5 +1,5 @@
 # silo.ist
-The https://siloist.github.io/silo/ website.
+The https://siloist.github.io/ website.
 The purpouse of this porject is to collect all Silo's work, reformat them in markdown texts with good metadata, and publish it for free, permament accessibility.
 
 ## Silo
@@ -10,7 +10,7 @@ His official site is <http://silo.net>
 The project has been launched by [Stefano Cecere](https://github.com/StefanoCecere) and Federico Palumbo
 
 ## Contribute
-Please submit an [issue](https://github.com/Siloist/silo.ist/issues) if you have any comment and critics
+Please submit an [issue](https://github.com/siloist/siloist.github.io/issues) if you have any comment and critics
 fork the project and start submitting pull request if you want to contribute
 
 ## Technology
