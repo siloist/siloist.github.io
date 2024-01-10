@@ -1,6 +1,6 @@
 # silo.ist website
 
-project and developer ingo for http://silo.ist website
+project and developer info for http://silo.ist website
 
 project requirements:
 
